@@ -77,6 +77,15 @@ def slide(sl, i, n):
     elif t == "question":
         cls = "deep"
         body = f'<div class="kicker">{esc(sl["kicker"])}</div><div class="grow"></div><h1 style="font-size:132px">{esc(sl["title"])}</h1><div style="height:48px"></div><p>{esc(sl["body"])}</p><div style="height:60px"></div><div class="btn">Comment below ↓</div><div style="height:150px"></div>'
+    elif t == "photo":
+        img = pathlib.Path(__file__).resolve().parent.parent / "photos" / sl["image"]
+        data = "data:image/jpeg;base64," + base64.b64encode(img.read_bytes()).decode()
+        cls = "dark"
+        kick = f'<div class="kicker" style="color:#fff">{esc(sl.get("kicker"))}</div>' if sl.get("kicker") else ""
+        body = (f'<div style="position:absolute;inset:0;background:url({data}) center/cover"></div>'
+                f'<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(25,23,61,.35) 0%,rgba(25,23,61,0) 30%,rgba(25,23,61,0) 50%,rgba(25,23,61,.85) 100%)"></div>'
+                f'<div style="position:relative;display:flex;flex-direction:column;height:100%">{kick}<div class="grow"></div>'
+                f'<h1 style="color:#fff">{esc(sl.get("title"))}</h1><div style="height:28px"></div><p style="color:#fff">{esc(sl.get("body"))}</p><div style="height:120px"></div></div>')
     elif t == "cta":
         cls = "dark"
         body = f'<div class="grow"></div><h1>{esc(sl["title"])}</h1><div style="height:44px"></div><p>{esc(sl["body"])}</p><div style="height:60px"></div><div class="btn">resapass.co</div><div class="grow"></div><div style="height:110px"></div>'

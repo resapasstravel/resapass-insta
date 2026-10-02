@@ -22,3 +22,8 @@ Resapass (resapass.co): hotel booking site, 2M+ hotels, net rates from 280+ supp
 cover(kicker,title,sub) · point(n,title,body) · place(n,title,tag,body) · stat(big,title,body) · bigstat(kicker,big,title,body) · manifesto(lines[],title,body) · question(kicker,title,body) · cta(title,body).
 Carousels: cover first, cta last, 5 to 9 slides. Titles under ~60 characters, bodies under ~120.
 See `tools/week-2026-10-05.json` for the exact JSON format.
+
+## Photo posts
+- Photos live in `photos/` (free-licence or Resapass-owned images only; source noted in `photos/SOURCES.md`).
+- Template `photo(image, kicker?, title, body)`: full-bleed photo, brand gradient, white text, Resapass logo in the footer. `image` is the file name inside `photos/`.
+- When `photos/` has unused images, replace 1 or 2 of the week's single posts with a photo post (destination mood: beach, city, hotel room) or use a photo as a carousel cover. Never reuse a photo already used in an earlier week file. Never claim the photo shows a specific hotel unless SOURCES.md says so.
