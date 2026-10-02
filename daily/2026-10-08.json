@@ -6,31 +6,31 @@
   "carousel": [
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/1.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/1.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/2.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/2.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/3.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/3.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/4.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/4.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/5.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/5.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/6.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/6.jpg"
     },
     {
       "media_type": "IMAGE",
-      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/7.jpg"
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-08/7.jpg"
     }
   ]
 }

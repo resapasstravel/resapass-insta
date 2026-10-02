@@ -10,6 +10,6 @@ for p in json.load(open(pathlib.Path(tmp)/"queue.json")):
         shutil.copy(pathlib.Path(tmp)/f, d/f"{i}.jpg"); urls.append(f"{base}/posts/{p['date']}/{i}.jpg")
     (root/"daily").mkdir(exist_ok=True)
     json.dump({"date": p["date"], "type": p["type"], "photo_url": urls[0], "caption": p["caption"],
-               "carousel": [{"media_type": "IMAGE", "url": u} for u in urls]},
+               "carousel": [{"media_type": "IMAGE", "image_url": u} for u in urls]},
               open(root/"daily"/f"{p['date']}.json", "w"), indent=2, ensure_ascii=False)
     print("ok", p["date"], p["type"], len(urls))
