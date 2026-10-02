@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-10",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/1.jpg",
+  "caption": "Free cancellation isn't just a safety net. It's a way to pay less.\n\nBook flexible early, re-check the price before the deadline, and rebook if it dropped. Always book the new one before you cancel the old one.\n\nSave this for your next trip.\n\n#travelhacks #traveltips #hoteldeals",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-10/6.jpg"
+    }
+  ]
+}

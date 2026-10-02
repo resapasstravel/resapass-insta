@@ -1,0 +1,76 @@
+[
+  {
+    "id": "w1-01", "date": "2026-10-05", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Hotel pricing, explained", "title": "Why the same room costs less on Resapass", "sub": "Swipe. It takes 30 seconds."},
+      {"tpl": "point", "n": "01", "title": "Big booking sites charge hotels a commission.", "body": "Usually somewhere between 15% and 25% of every night you book."},
+      {"tpl": "point", "n": "02", "title": "Guess who ends up paying for it.", "body": "Hotels price that commission into the rate you see. You pay it, you just never see the line."},
+      {"tpl": "point", "n": "03", "title": "We buy rooms at net rates.", "body": "The wholesale price, straight from 280+ hotel suppliers. Before anyone adds their cut."},
+      {"tpl": "point", "n": "04", "title": "Then we add a flat 10%.", "body": "Same margin on every hotel. No subscription, no hidden fees at checkout."},
+      {"tpl": "stat", "big": "18%", "title": "cheaper on average", "body": "than the big booking sites, across our price checks."},
+      {"tpl": "cta", "title": "Check your next hotel", "body": "Link in bio. Compare the price before you book anywhere else."}
+    ],
+    "caption": "The same hotel room. The same dates. A different price.\n\nHere's why: the big booking sites charge hotels 15 to 25% commission, and that cost lands in the price you pay. We buy at net rates from 280+ suppliers and add a flat 10%. That's the whole trick.\n\nOn average, that makes us 18% cheaper.*\n\nSave this for your next trip and compare before you book. Link in bio.\n\n*Average across our price checks vs major booking sites. Not every hotel, every date.\n\n#hotelbooking #traveltips #travelhacks"
+  },
+  {
+    "id": "w1-02", "date": "2026-10-06", "type": "single",
+    "slides": [
+      {"tpl": "bigstat", "kicker": "Same hotel. Same dates.", "big": "-18%", "title": "on average vs the big booking sites", "body": "2M+ hotels. One flat 10% margin."}
+    ],
+    "caption": "Same hotel. Same dates. On average 18% less.*\n\nNo membership, no points to collect, no fees that appear on the last screen. Just the net rate plus a flat 10%.\n\nWhere are you going next? Tell us in the comments and we'll check it.\n\n*Average across our price checks vs major booking sites.\n\n#hoteldeals #cheaphotels #travelsmart"
+  },
+  {
+    "id": "w1-03", "date": "2026-10-07", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Save this before your next trip", "title": "7 hotel booking mistakes that cost you money", "sub": "Number 4 is the expensive one."},
+      {"tpl": "point", "n": "01", "title": "Trusting the first price you see.", "body": "The same room can be listed at very different prices. Compare at least two sites."},
+      {"tpl": "point", "n": "02", "title": "Ignoring taxes and fees.", "body": "City tax, resort fees, service charges. Look at the final total, not the headline rate."},
+      {"tpl": "point", "n": "03", "title": "Paying for breakfast you won't eat.", "body": "Hotel breakfast is often priced well above the café next door. Check both."},
+      {"tpl": "point", "n": "04", "title": "Booking non-refundable 'just in case'.", "body": "A small saving today can turn into losing the whole stay if plans change."},
+      {"tpl": "point", "n": "05", "title": "Forgetting the cancellation deadline.", "body": "Free cancellation usually ends days before arrival. Put the date in your calendar."},
+      {"tpl": "point", "n": "06", "title": "Staying central at any price.", "body": "One metro stop out can mean a bigger room for less. Check transport, not just the map pin."},
+      {"tpl": "point", "n": "07", "title": "Never re-checking the price.", "body": "Prices move. If you booked flexible, check again a week before and rebook if it dropped."},
+      {"tpl": "cta", "title": "Mistake #1 is the easiest fix", "body": "Compare your hotel on Resapass. Link in bio."}
+    ],
+    "caption": "Most people overpay for hotels without noticing. These 7 habits are why.\n\nThe expensive one is number 4: booking non-refundable to save a few euros, then losing the whole stay when plans change.\n\nSave this post for your next booking. Which one have you done?\n\n#travelhacks #hoteltips #budgettravel"
+  },
+  {
+    "id": "w1-04", "date": "2026-10-08", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "City guide", "title": "Lisbon: where to stay, by vibe", "sub": "5 neighbourhoods, 5 very different trips."},
+      {"tpl": "place", "n": "01", "title": "Alfama", "tag": "Old-town charm", "body": "Steep lanes, tiled facades, fado bars. Bring good shoes."},
+      {"tpl": "place", "n": "02", "title": "Baixa & Chiado", "tag": "First time in Lisbon", "body": "Central, flat, walkable. Shops, cafés and the river a few minutes away."},
+      {"tpl": "place", "n": "03", "title": "Príncipe Real", "tag": "Boutique & calm", "body": "Leafy squares, concept stores, design hotels. Quieter at night."},
+      {"tpl": "place", "n": "04", "title": "Cais do Sodré", "tag": "Nightlife", "body": "Bars, the Time Out Market and trains to the beach at Cascais."},
+      {"tpl": "place", "n": "05", "title": "Belém", "tag": "Slow & cultural", "body": "Monuments, museums and the original pastéis de nata. Further from the centre."},
+      {"tpl": "cta", "title": "Found your neighbourhood?", "body": "Compare Lisbon hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Lisbon is five different cities depending on where you sleep.\n\nFirst trip? Baixa & Chiado. Want charm? Alfama. Going out? Cais do Sodré. Want calm? Príncipe Real or Belém.\n\nSend this to the person you're going with.\n\n#lisbon #lisboa #portugaltravel"
+  },
+  {
+    "id": "w1-05", "date": "2026-10-09", "type": "single",
+    "slides": [
+      {"tpl": "manifesto", "lines": ["No subscription.", "No hidden fees.", "No inflated prices."], "title": "Just the net rate + 10%.", "body": "2M+ hotels worldwide"}
+    ],
+    "caption": "We kept the model simple on purpose.\n\nWe get the net rate from our suppliers. We add 10%. You see the final price. That's it.\n\nPlanning a weekend away? Check the price before you book. Link in bio.\n\n#hotelbooking #travelsmart #weekendgetaway"
+  },
+  {
+    "id": "w1-06", "date": "2026-10-10", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Travel hack", "title": "Use free cancellation to pay less", "sub": "The trick hotels don't advertise."},
+      {"tpl": "point", "n": "01", "title": "Book a flexible rate early.", "body": "Lock in a room with free cancellation as soon as your dates are set."},
+      {"tpl": "point", "n": "02", "title": "Set a reminder.", "body": "One week before your free cancellation deadline."},
+      {"tpl": "point", "n": "03", "title": "Check the price again.", "body": "Same hotel, same dates. Prices move up and down all the time."},
+      {"tpl": "point", "n": "04", "title": "Found it cheaper? Rebook.", "body": "Book the new rate first, then cancel the old one. Never the other way round."},
+      {"tpl": "cta", "title": "Free cancellation on most rooms", "body": "Book flexible on Resapass. Link in bio."}
+    ],
+    "caption": "Free cancellation isn't just a safety net. It's a way to pay less.\n\nBook flexible early, re-check the price before the deadline, and rebook if it dropped. Always book the new one before you cancel the old one.\n\nSave this for your next trip.\n\n#travelhacks #traveltips #hoteldeals"
+  },
+  {
+    "id": "w1-07", "date": "2026-10-11", "type": "single",
+    "slides": [
+      {"tpl": "question", "kicker": "Your turn", "title": "Where are you going next?", "body": "Drop the city and your dates in the comments. We'll check the price for you."}
+    ],
+    "caption": "Where's your next trip? 👇\n\nComment the city and your dates. We'll check hotel prices on Resapass and reply with what we find.\n\n#travel #wanderlust #nexttrip"
+  }
+]
