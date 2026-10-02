@@ -2,19 +2,23 @@
 
 Usage: python3 render.py week.json out/
 """
-import json, sys, html, pathlib, io
+import json, sys, html, pathlib, io, base64
+B=pathlib.Path(__file__).parent/"brand"
+def b64(n): return "data:image/png;base64,"+base64.b64encode((B/n).read_bytes()).decode()
+LOGO={k:b64(f"logo-{k}.png") for k in ("white","color")}
+ICON={k:b64(f"icon-{k}.png") for k in ("white","color")}
 from playwright.sync_api import sync_playwright
 from PIL import Image
 
 W, H = 1080, 1350
-NAVY, DEEP, CREAM, SUN, INK = "#1E3A5F", "#132841", "#F6F1E7", "#F2A65A", "#1B2633"
+NAVY, DEEP, CREAM, SUN, INK = "#29265C", "#19173D", "#F3F7FB", "#69B9E8", "#29265C"
 
 CSS = f"""
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{width:{W}px;height:{H}px;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}}
 .s{{width:{W}px;height:{H}px;position:relative;padding:96px 88px;display:flex;flex-direction:column}}
 .dark{{background:{NAVY};color:{CREAM}}}
-.deep{{background:radial-gradient(120% 90% at 85% 0%, #2B5585 0%, {NAVY} 45%, {DEEP} 100%);color:{CREAM}}}
+.deep{{background:radial-gradient(120% 90% at 85% 0%, #3A3F86 0%, {NAVY} 45%, {DEEP} 100%);color:{CREAM}}}
 .light{{background:{CREAM};color:{INK}}}
 .sun{{background:{SUN};color:{DEEP}}}
 .kicker{{font-weight:600;font-size:30px;letter-spacing:.14em;text-transform:uppercase;color:{SUN}}}
@@ -32,6 +36,7 @@ p{{font-size:38px;line-height:1.4;font-weight:400;opacity:.86}}
 .mark i{{font-style:normal;color:{SUN}}}
 .light .mark i{{color:{NAVY};opacity:.5}}
 .sun .mark i{{color:{CREAM}}}
+.sun p{{opacity:.9}}
 .ctr{{opacity:.6}}
 .btn{{display:inline-block;align-self:flex-start;background:{SUN};color:{DEEP};font-weight:700;font-size:36px;padding:26px 44px;border-radius:999px}}
 .rule{{width:120px;height:8px;background:{SUN};border-radius:4px}}
@@ -45,13 +50,14 @@ def esc(s): return html.escape(s or "")
 def foot(i, n, cls):
     arrow = "Swipe →" if n > 1 and i < n - 1 else ("resapass.co" if n == 1 or i == n - 1 else "")
     ctr = f"{i+1}/{n}" if n > 1 else ""
-    return f'<div class="foot"><div class="mark">resa<i>pass</i></div><div class="ctr">{ctr}</div><div>{esc(arrow)}</div></div>'
+    logo = LOGO["color"] if cls == "light" else LOGO["white"]
+    return f'<div class="foot"><img src="{logo}" style="height:46px"><div class="ctr">{ctr}</div><div>{esc(arrow)}</div></div>'
 
 def slide(sl, i, n):
     t = sl["tpl"]
     if t == "cover":
         cls = "deep"
-        body = f'<div class="kicker">{esc(sl["kicker"])}</div><div class="grow"></div><h1>{esc(sl["title"])}</h1><div style="height:40px"></div><p>{esc(sl.get("sub"))}</p><div style="height:150px"></div>'
+        body = f'<img src="{ICON["white"]}" style="position:absolute;top:84px;right:88px;height:84px"><div class="kicker">{esc(sl["kicker"])}</div><div class="grow"></div><h1>{esc(sl["title"])}</h1><div style="height:40px"></div><p>{esc(sl.get("sub"))}</p><div style="height:150px"></div>'
     elif t == "point":
         cls = "light"
         body = f'<div class="n">{esc(sl["n"])}</div><div class="grow"></div><h2>{esc(sl["title"])}</h2><div style="height:44px"></div><div class="rule"></div><div style="height:44px"></div><p>{esc(sl["body"])}</p><div style="height:150px"></div>'
