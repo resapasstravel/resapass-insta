@@ -1,1 +1,12 @@
-{"date":"2026-10-03","type":"none","photo_url":"","caption":"","carousel":[]}
+{
+  "date": "2026-10-03",
+  "type": "single",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-03/1.jpg",
+  "caption": "Saving this one for the next long weekend. 💙\n\nSantorini is at its calmest outside July and August: warm sea, fewer crowds, softer hotel prices.\n\nWho would you take with you? Tag them.\n\n#santorini #greece #travelinspiration",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-03/1.jpg"
+    }
+  ]
+}

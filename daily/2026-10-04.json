@@ -1,1 +1,12 @@
-{"date":"2026-10-04","type":"none","photo_url":"","caption":"","carousel":[]}
+{
+  "date": "2026-10-04",
+  "type": "single",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-04/1.jpg",
+  "caption": "Overwater villa in the Maldives or cliffside room in Santorini? 👇\n\nTell us your pick in the comments. Both are on Resapass, at net rates plus a flat 10%.\n\n#maldives #overwatervilla #dreamtrip",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-04/1.jpg"
+    }
+  ]
+}
