@@ -27,3 +27,6 @@ See `tools/week-2026-10-05.json` for the exact JSON format.
 - Photos live in `photos/` (free-licence or Resapass-owned images only; source noted in `photos/SOURCES.md`).
 - Template `photo(image, kicker?, title, body)`: full-bleed photo, brand gradient, white text, Resapass logo in the footer. `image` is the file name inside `photos/`.
 - When `photos/` has unused images, replace 1 or 2 of the week's single posts with a photo post (destination mood: beach, city, hotel room) or use a photo as a carousel cover. Never reuse a photo already used in an earlier week file. Never claim the photo shows a specific hotel unless SOURCES.md says so.
+
+## No gaps
+Every calendar day must have a `daily/YYYY-MM-DD.json` file (Make errors on a missing file and can switch itself off). A day with nothing to post uses `"type": "none"`.

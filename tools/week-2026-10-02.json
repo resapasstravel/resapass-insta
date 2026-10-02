@@ -1,0 +1,14 @@
+[
+  {
+    "id": "w0-01", "date": "2026-10-02", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Nice to meet you", "title": "Hotels, without the inflated price", "sub": "What Resapass is, in 5 slides."},
+      {"tpl": "point", "n": "01", "title": "2M+ hotels worldwide.", "body": "From city breaks to beach resorts, compared in one search."},
+      {"tpl": "point", "n": "02", "title": "Net rates + a flat 10%.", "body": "We buy rooms at wholesale prices and add the same small margin on every booking."},
+      {"tpl": "point", "n": "03", "title": "Free cancellation on most rooms.", "body": "Plans change. Your booking can too."},
+      {"tpl": "point", "n": "04", "title": "Support 7 days a week.", "body": "Real people to help before, during and after your stay."},
+      {"tpl": "cta", "title": "Your next hotel, for less", "body": "Compare it on Resapass. Link in bio."}
+    ],
+    "caption": "Hi, we're Resapass 👋\n\nWe compare 2M+ hotels and sell rooms at net rates plus a flat 10%. No subscription, no fees that show up on the last screen, free cancellation on most rooms.\n\nFollow along for travel hacks, city guides and real hotel deals. Where are you going next?\n\n#hotelbooking #travelsmart #traveltips"
+  }
+]
