@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/1.jpg",
+  "caption": "Where you sleep in Rome changes the whole trip.\n\nFirst visit? Centro Storico. Evenings out? Trastevere. Boutique feel? Monti. Calm and close to the Vatican? Prati. Here for the food? Testaccio.\n\nSend this to the person you're going with.\n\n#rome #roma #italytravel",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/6.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-15/7.jpg"
+    }
+  ]
+}

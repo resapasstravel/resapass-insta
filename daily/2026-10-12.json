@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-12",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/1.jpg",
+  "caption": "Two prices for the same room on the same night? It's usually the rate type, not a mistake.\n\nNon-refundable is often cheapest but leaves you stuck if plans change. Free cancellation keeps you flexible. Breakfast and payment timing change the total too.\n\nSave this so you pick the right one next time.\n\n#hotelbooking #traveltips #travelplanning",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-10-12/6.jpg"
+    }
+  ]
+}

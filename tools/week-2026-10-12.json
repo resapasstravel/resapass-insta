@@ -1,0 +1,75 @@
+[
+  {
+    "id": "w2-01", "date": "2026-10-12", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Booking basics", "title": "Hotel rate types, explained in 1 minute", "sub": "Pick the right rate, pay the right price."},
+      {"tpl": "point", "n": "01", "title": "Non-refundable.", "body": "Often the lowest price. But if your plans change, the money is usually gone."},
+      {"tpl": "point", "n": "02", "title": "Free cancellation.", "body": "Sometimes a little more. Cancel without a fee up to the deadline shown on your booking."},
+      {"tpl": "point", "n": "03", "title": "Room only vs breakfast included.", "body": "Breakfast adds a cost per person, per night. Worth it only if you'll actually eat there."},
+      {"tpl": "point", "n": "04", "title": "Pay now vs pay at the hotel.", "body": "Some rates are charged when you book, others at the property. Check before you confirm."},
+      {"tpl": "cta", "title": "Free cancellation on most rooms", "body": "Compare rate types on Resapass. Link in bio."}
+    ],
+    "caption": "Two prices for the same room on the same night? It's usually the rate type, not a mistake.\n\nNon-refundable is often cheapest but leaves you stuck if plans change. Free cancellation keeps you flexible. Breakfast and payment timing change the total too.\n\nSave this so you pick the right one next time.\n\n#hotelbooking #traveltips #travelplanning"
+  },
+  {
+    "id": "w2-02", "date": "2026-10-13", "type": "single",
+    "slides": [
+      {"tpl": "manifesto", "lines": ["Late check-in?", "Room not ready?", "Plans changed?"], "title": "We answer 7 days a week.", "body": "Real support before, during and after your stay."}
+    ],
+    "caption": "Travel doesn't stop at the weekend, so neither does our support.\n\nLate arrival, a booking question, a change of plans: our team is there 7 days a week, before, during and after your stay.\n\nBook your next hotel with someone on your side. Link in bio.\n\n#travelsupport #hotelbooking #stressfreetravel"
+  },
+  {
+    "id": "w2-03", "date": "2026-10-14", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Save this before your next booking", "title": "How to read hotel reviews like a pro", "sub": "6 habits that stop bad surprises."},
+      {"tpl": "point", "n": "01", "title": "Sort by most recent.", "body": "A renovation or new management changes everything. Old reviews may describe a different hotel."},
+      {"tpl": "point", "n": "02", "title": "Read the 3-star reviews.", "body": "They're usually the most balanced: what works, what doesn't, without the drama."},
+      {"tpl": "point", "n": "03", "title": "Look for patterns.", "body": "One complaint about noise is bad luck. Ten complaints about noise is the hotel."},
+      {"tpl": "point", "n": "04", "title": "Read reviews from people like you.", "body": "A couple's weekend and a family holiday need different things. Filter by traveller type if you can."},
+      {"tpl": "point", "n": "05", "title": "Check the guest photos.", "body": "They show the room you'll probably get, not the best suite on the top floor."},
+      {"tpl": "point", "n": "06", "title": "Read the hotel's replies.", "body": "How a hotel answers complaints tells you how it will treat you if something goes wrong."},
+      {"tpl": "cta", "title": "Found the one?", "body": "Compare its price on Resapass. Link in bio."}
+    ],
+    "caption": "A 9.1 score doesn't tell you much. The reviews behind it do, if you know how to read them.\n\nSort by recent, read the middle ratings, look for patterns and check how the hotel replies. That's where the truth is.\n\nWhich of these do you already do? Tell us in the comments.\n\n#hoteltips #traveltips #travelplanning"
+  },
+  {
+    "id": "w2-04", "date": "2026-10-15", "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p035.jpg", "kicker": "City guide", "title": "Rome: where to stay, by vibe", "body": "5 neighbourhoods, 5 very different trips."},
+      {"tpl": "place", "n": "01", "title": "Centro Storico", "tag": "First time in Rome", "body": "Pantheon, Piazza Navona, Trevi Fountain. Walk almost everywhere."},
+      {"tpl": "place", "n": "02", "title": "Trastevere", "tag": "Lively evenings", "body": "Cobbled lanes, ivy, trattorias and bars across the Tiber. Busy at night."},
+      {"tpl": "place", "n": "03", "title": "Monti", "tag": "Boutique & local", "body": "Vintage shops and wine bars, a short walk from the Colosseum."},
+      {"tpl": "place", "n": "04", "title": "Prati", "tag": "Calm & practical", "body": "Wide streets near the Vatican, good metro links, quieter after dark."},
+      {"tpl": "place", "n": "05", "title": "Testaccio", "tag": "Food lovers", "body": "A real Roman neighbourhood with a famous food market and classic local cooking."},
+      {"tpl": "cta", "title": "Found your neighbourhood?", "body": "Compare Rome hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Where you sleep in Rome changes the whole trip.\n\nFirst visit? Centro Storico. Evenings out? Trastevere. Boutique feel? Monti. Calm and close to the Vatican? Prati. Here for the food? Testaccio.\n\nSend this to the person you're going with.\n\n#rome #roma #italytravel"
+  },
+  {
+    "id": "w2-05", "date": "2026-10-16", "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p070.jpg", "kicker": "Weekend mood", "title": "Positano at golden hour", "body": "Pastel houses stacked above the sea on the Amalfi Coast."}
+    ],
+    "caption": "Friday feeling: Positano, just before sunset. 🌅\n\nFor warm sea and fewer crowds on the Amalfi Coast, look at late spring or September rather than August.\n\nSave this for your next trip list.\n\n#positano #amalficoast #italytravel"
+  },
+  {
+    "id": "w2-06", "date": "2026-10-17", "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Travel hack", "title": "Same hotel, cheaper nights", "sub": "How flexible dates can lower the price."},
+      {"tpl": "point", "n": "01", "title": "City hotels often dip at weekends.", "body": "Business travellers go home on Friday. In many big cities, weekend nights cost less."},
+      {"tpl": "point", "n": "02", "title": "Beach hotels do the opposite.", "body": "Leisure spots fill up at weekends. Midweek stays are often the better price."},
+      {"tpl": "point", "n": "03", "title": "Watch out for big events.", "body": "Trade fairs, concerts and festivals push prices up across a whole city. Check first."},
+      {"tpl": "point", "n": "04", "title": "Try shoulder season.", "body": "The weeks just before or after peak season often bring good weather and softer prices."},
+      {"tpl": "point", "n": "05", "title": "Shift by one night.", "body": "Search your dates, then one day earlier and one day later. Compare the totals."},
+      {"tpl": "cta", "title": "Flexible? Compare a few dates", "body": "Search on Resapass. Link in bio."}
+    ],
+    "caption": "Sometimes the cheapest way to get a better hotel price is to move your dates, not your hotel.\n\nCity hotels often get cheaper at weekends, beach hotels midweek. Avoid big event dates and try one night earlier or later.\n\nSave this for when you plan your next trip.\n\n#travelhacks #budgettravel #hoteldeals"
+  },
+  {
+    "id": "w2-07", "date": "2026-10-18", "type": "single",
+    "slides": [
+      {"tpl": "question", "kicker": "Settle this", "title": "Hotel breakfast: worth it?", "body": "Always, never, or only when it's included? Tell us in the comments."}
+    ],
+    "caption": "Hotel breakfast: worth it or not? ☕\n\nSome people plan the whole day around the buffet. Others head straight to the café round the corner. Which team are you on? Tell us in the comments.\n\n#hotelbreakfast #travel #travelquestions"
+  }
+]
