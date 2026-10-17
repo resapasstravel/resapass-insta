@@ -1,74 +1,282 @@
 [
   {
-    "id": "w3-01", "date": "2026-10-19", "type": "carousel",
+    "id": "w3-01",
+    "date": "2026-10-19",
+    "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "How it works", "title": "One hotel, many suppliers", "sub": "Where hotel prices actually come from."},
-      {"tpl": "point", "n": "01", "title": "Hotels don't sell every room themselves.", "body": "Many hand part of their rooms to wholesale suppliers, at net rates."},
-      {"tpl": "point", "n": "02", "title": "Same room, several suppliers.", "body": "One hotel can sit with many suppliers at once, and their rates are not always the same."},
-      {"tpl": "point", "n": "03", "title": "We search 280+ suppliers in one go.", "body": "You type your city and dates once. We look across all of them for you."},
-      {"tpl": "point", "n": "04", "title": "Then we add a flat 10%.", "body": "The same margin on every hotel. No subscription, no fees added at checkout."},
-      {"tpl": "cta", "title": "See it for your next trip", "body": "Search your dates on Resapass. Link in bio."}
+      {
+        "tpl": "cover",
+        "kicker": "How it works",
+        "title": "One hotel, many suppliers",
+        "sub": "Where hotel prices actually come from."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "Hotels don't sell every room themselves.",
+        "body": "Many hand part of their rooms to wholesale suppliers, at net rates."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Same room, several suppliers.",
+        "body": "One hotel can sit with many suppliers at once, and their rates are not always the same."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "We search 280+ suppliers in one go.",
+        "body": "You type your city and dates once. We look across all of them for you."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Then we add a flat 10%.",
+        "body": "The same margin on every hotel. No subscription, no fees added at checkout."
+      },
+      {
+        "tpl": "cta",
+        "title": "See it for your next trip",
+        "body": "Search your dates on Resapass. Link in bio."
+      }
     ],
     "caption": "Ever wondered where a hotel price comes from?\n\nMany hotels sell part of their rooms through wholesale suppliers at net rates. One hotel can be with several suppliers at once. We search 280+ of them in one go, then add a flat 10%. No subscription, no extra fees at checkout.\n\nSave this so you know what you're paying for.\n\n#hotelbooking #travelsmart #traveltips"
   },
   {
-    "id": "w3-02", "date": "2026-10-20", "type": "single",
+    "id": "w3-02",
+    "date": "2026-10-20",
+    "type": "carousel",
     "slides": [
-      {"tpl": "bigstat", "kicker": "One search", "big": "2M+", "title": "hotels worldwide", "body": "City breaks, beach resorts, small guesthouses. Net rate + a flat 10%."}
+      {
+        "tpl": "cover",
+        "kicker": "Travel hack",
+        "title": "Same hotel, cheaper nights",
+        "sub": "How flexible dates can lower the price."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "City hotels often dip at weekends.",
+        "body": "Business travellers go home on Friday. In many big cities, weekend nights cost less."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Beach hotels do the opposite.",
+        "body": "Leisure spots fill up at weekends. Midweek stays are often the better price."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "Watch out for big events.",
+        "body": "Trade fairs, concerts and festivals push prices up across a whole city. Check first."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Try shoulder season.",
+        "body": "The weeks just before or after peak season often bring good weather and softer prices."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "Shift by one night.",
+        "body": "Search your dates, then one day earlier and one day later. Compare the totals."
+      },
+      {
+        "tpl": "cta",
+        "title": "Flexible? Compare a few dates",
+        "body": "Search on Resapass. Link in bio."
+      }
     ],
-    "caption": "Over 2 million hotels, one search.\n\nFrom a weekend in a big city to a week on the beach, you compare them all in one place, at net rates plus a flat 10%.\n\nWhere should we search for you next? Tell us in the comments.\n\n#hotels #travelplanning #citybreak"
+    "caption": "Sometimes the cheapest way to get a better hotel price is to move your dates, not your hotel.\n\nCity hotels often get cheaper at weekends, beach hotels midweek. Avoid big event dates and try one night earlier or later.\n\nSave this for when you plan your next trip.\n\n#travelhacks #budgettravel #hoteldeals",
+    "note": "Rescheduled from 2026-10-17 (Instagram error 9007)"
   },
   {
-    "id": "w3-03", "date": "2026-10-21", "type": "carousel",
+    "id": "w3-03",
+    "date": "2026-10-21",
+    "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "Save this for check-in day", "title": "6 things to check when you enter your room", "sub": "Two minutes now saves a bad night later."},
-      {"tpl": "point", "n": "01", "title": "Is it the room you booked?", "body": "Bed type, view, number of guests. Easier to fix now than at midnight."},
-      {"tpl": "point", "n": "02", "title": "Test the heating or air con.", "body": "Switch it on straight away. If it doesn't work, ask before you unpack."},
-      {"tpl": "point", "n": "03", "title": "Check the safe.", "body": "Make sure it opens, locks and opens again before your passport goes in."},
-      {"tpl": "point", "n": "04", "title": "Take photos of any damage.", "body": "A stain or a broken lamp? Snap it and tell reception, so nobody blames you later."},
-      {"tpl": "point", "n": "05", "title": "Find the fire exit.", "body": "Count the doors to the nearest exit. It takes ten seconds."},
-      {"tpl": "point", "n": "06", "title": "Ask about late check-out early.", "body": "Requests made on arrival are often easier for the hotel to plan for."},
-      {"tpl": "cta", "title": "Something wrong with your booking?", "body": "Our support team answers 7 days a week."}
+      {
+        "tpl": "cover",
+        "kicker": "Save this for check-in day",
+        "title": "6 things to check when you enter your room",
+        "sub": "Two minutes now saves a bad night later."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "Is it the room you booked?",
+        "body": "Bed type, view, number of guests. Easier to fix now than at midnight."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Test the heating or air con.",
+        "body": "Switch it on straight away. If it doesn't work, ask before you unpack."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "Check the safe.",
+        "body": "Make sure it opens, locks and opens again before your passport goes in."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Take photos of any damage.",
+        "body": "A stain or a broken lamp? Snap it and tell reception, so nobody blames you later."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "Find the fire exit.",
+        "body": "Count the doors to the nearest exit. It takes ten seconds."
+      },
+      {
+        "tpl": "point",
+        "n": "06",
+        "title": "Ask about late check-out early.",
+        "body": "Requests made on arrival are often easier for the hotel to plan for."
+      },
+      {
+        "tpl": "cta",
+        "title": "Something wrong with your booking?",
+        "body": "Our support team answers 7 days a week."
+      }
     ],
     "caption": "The first two minutes in a hotel room decide how the rest of the stay goes.\n\nCheck the room matches your booking, test the heating or air con, try the safe, photograph any damage, find the fire exit and ask about late check-out early.\n\nSave this for your next check-in.\n\n#hoteltips #traveltips #travelhacks"
   },
   {
-    "id": "w3-04", "date": "2026-10-22", "type": "carousel",
+    "id": "w3-04",
+    "date": "2026-10-22",
+    "type": "carousel",
     "slides": [
-      {"tpl": "photo", "image": "p029.jpg", "kicker": "City guide", "title": "Paris: where to stay, by vibe", "body": "5 neighbourhoods, 5 very different trips."},
-      {"tpl": "place", "n": "01", "title": "Le Marais", "tag": "First time in Paris", "body": "Central and walkable. Old mansions, galleries, falafel and the Place des Vosges."},
-      {"tpl": "place", "n": "02", "title": "Saint-Germain-des-Prés", "tag": "Classic Left Bank", "body": "Literary cafés, bookshops and the Luxembourg Gardens nearby."},
-      {"tpl": "place", "n": "03", "title": "Montmartre", "tag": "Village feel", "body": "Hilltop lanes, Sacré-Cœur and views over the city. Lots of stairs."},
-      {"tpl": "place", "n": "04", "title": "Latin Quarter", "tag": "Lively & student", "body": "Busy streets, small bistros and the Panthéon, close to Notre-Dame."},
-      {"tpl": "place", "n": "05", "title": "Canal Saint-Martin", "tag": "Local & laid-back", "body": "Iron footbridges, canal-side bars and independent shops."},
-      {"tpl": "cta", "title": "Found your neighbourhood?", "body": "Compare Paris hotels on Resapass. Link in bio."}
+      {
+        "tpl": "photo",
+        "image": "p029.jpg",
+        "kicker": "City guide",
+        "title": "Paris: where to stay, by vibe",
+        "body": "5 neighbourhoods, 5 very different trips."
+      },
+      {
+        "tpl": "place",
+        "n": "01",
+        "title": "Le Marais",
+        "tag": "First time in Paris",
+        "body": "Central and walkable. Old mansions, galleries, falafel and the Place des Vosges."
+      },
+      {
+        "tpl": "place",
+        "n": "02",
+        "title": "Saint-Germain-des-Prés",
+        "tag": "Classic Left Bank",
+        "body": "Literary cafés, bookshops and the Luxembourg Gardens nearby."
+      },
+      {
+        "tpl": "place",
+        "n": "03",
+        "title": "Montmartre",
+        "tag": "Village feel",
+        "body": "Hilltop lanes, Sacré-Cœur and views over the city. Lots of stairs."
+      },
+      {
+        "tpl": "place",
+        "n": "04",
+        "title": "Latin Quarter",
+        "tag": "Lively & student",
+        "body": "Busy streets, small bistros and the Panthéon, close to Notre-Dame."
+      },
+      {
+        "tpl": "place",
+        "n": "05",
+        "title": "Canal Saint-Martin",
+        "tag": "Local & laid-back",
+        "body": "Iron footbridges, canal-side bars and independent shops."
+      },
+      {
+        "tpl": "cta",
+        "title": "Found your neighbourhood?",
+        "body": "Compare Paris hotels on Resapass. Link in bio."
+      }
     ],
     "caption": "Paris feels like a different city depending on where you sleep.\n\nFirst visit? Le Marais. Classic Paris? Saint-Germain-des-Prés. Village feel? Montmartre. Lively and young? Latin Quarter. Local evenings? Canal Saint-Martin.\n\nSend this to the person you're going with.\n\n#paris #paristravel #francetravel"
   },
   {
-    "id": "w3-05", "date": "2026-10-23", "type": "single",
+    "id": "w3-05",
+    "date": "2026-10-23",
+    "type": "single",
     "slides": [
-      {"tpl": "photo", "image": "p077.jpg", "kicker": "Weekend mood", "title": "Out of office, in spirit", "body": "White sand, palm trees and nowhere to be."}
+      {
+        "tpl": "photo",
+        "image": "p077.jpg",
+        "kicker": "Weekend mood",
+        "title": "Out of office, in spirit",
+        "body": "White sand, palm trees and nowhere to be."
+      }
     ],
     "caption": "Friday. Mentally already here. 🌴\n\nNot booked yet? Autumn is a good moment to start planning some winter sun.\n\nTag the person you'd take with you.\n\n#beachvibes #wintersun #travelinspiration"
   },
   {
-    "id": "w3-06", "date": "2026-10-24", "type": "carousel",
+    "id": "w3-06",
+    "date": "2026-10-24",
+    "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "Travel hack", "title": "Sleep better in any hotel room", "sub": "5 small tricks for a quieter night."},
-      {"tpl": "point", "n": "01", "title": "Ask for a quiet room when you book.", "body": "Use the special requests box: high floor, away from the lift and the street."},
-      {"tpl": "point", "n": "02", "title": "Pack earplugs and an eye mask.", "body": "They weigh nothing and fix thin walls and curtains that let the light in."},
-      {"tpl": "point", "n": "03", "title": "Set the temperature early.", "body": "Most people sleep better in a cool room. Adjust it before dinner, not at bedtime."},
-      {"tpl": "point", "n": "04", "title": "Hang the Do Not Disturb sign.", "body": "Sleeping in? It stops an early knock from housekeeping."},
-      {"tpl": "point", "n": "05", "title": "Bring a phone stand or long cable.", "body": "Sockets are rarely next to the bed. Keep your alarm within reach."},
-      {"tpl": "cta", "title": "Book the room, then sleep well", "body": "Compare hotels on Resapass. Link in bio."}
+      {
+        "tpl": "cover",
+        "kicker": "Travel hack",
+        "title": "Sleep better in any hotel room",
+        "sub": "5 small tricks for a quieter night."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "Ask for a quiet room when you book.",
+        "body": "Use the special requests box: high floor, away from the lift and the street."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Pack earplugs and an eye mask.",
+        "body": "They weigh nothing and fix thin walls and curtains that let the light in."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "Set the temperature early.",
+        "body": "Most people sleep better in a cool room. Adjust it before dinner, not at bedtime."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Hang the Do Not Disturb sign.",
+        "body": "Sleeping in? It stops an early knock from housekeeping."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "Bring a phone stand or long cable.",
+        "body": "Sockets are rarely next to the bed. Keep your alarm within reach."
+      },
+      {
+        "tpl": "cta",
+        "title": "Book the room, then sleep well",
+        "body": "Compare hotels on Resapass. Link in bio."
+      }
     ],
     "caption": "A great hotel can still give you a bad night if you get the wrong room.\n\nAsk for a quiet room when you book, pack earplugs and an eye mask, cool the room early and hang the Do Not Disturb sign.\n\nSave this for your next trip.\n\n#travelhacks #hoteltips #sleepbetter"
   },
   {
-    "id": "w3-07", "date": "2026-10-25", "type": "single",
+    "id": "w3-07",
+    "date": "2026-10-25",
+    "type": "single",
     "slides": [
-      {"tpl": "question", "kicker": "Your pick", "title": "A view, or a bigger room?", "body": "Same price, you can only have one. Tell us in the comments."}
+      {
+        "tpl": "question",
+        "kicker": "Your pick",
+        "title": "A view, or a bigger room?",
+        "body": "Same price, you can only have one. Tell us in the comments."
+      }
     ],
     "caption": "Same price, same hotel. Which one do you take? 👇\n\nA small room with a view you'll remember, or a big room facing the courtyard? Tell us in the comments.\n\n#hotelroom #travel #travelquestions"
   }
