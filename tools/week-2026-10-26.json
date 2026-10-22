@@ -1,0 +1,91 @@
+[
+  {
+    "id": "w4-01",
+    "date": "2026-10-26",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Booking basics", "title": "Your booking confirmation, decoded", "sub": "6 lines to check before you travel."},
+      {"tpl": "point", "n": "01", "title": "The confirmation number.", "body": "Keep it handy offline. It's the first thing reception or support will ask for."},
+      {"tpl": "point", "n": "02", "title": "The guest name.", "body": "It should match the ID of the person checking in. Typos are easy to fix early."},
+      {"tpl": "point", "n": "03", "title": "Dates and number of nights.", "body": "Check-in and check-out days, not just the month. Late-night bookings slip a day easily."},
+      {"tpl": "point", "n": "04", "title": "Room type and board.", "body": "Twin or double bed, room only or breakfast included. It should match what you chose."},
+      {"tpl": "point", "n": "05", "title": "The cancellation deadline.", "body": "Note the exact date and time. After it, the free cancellation usually ends."},
+      {"tpl": "point", "n": "06", "title": "What's still due at the hotel.", "body": "Some local taxes are paid on arrival. Your booking details say if anything is left to pay."},
+      {"tpl": "cta", "title": "Something looks wrong?", "body": "Our support team answers 7 days a week."}
+    ],
+    "caption": "Most hotel problems start with a booking nobody read twice.\n\nCheck the confirmation number, the guest name, the dates, the room and board, the cancellation deadline and anything still to pay at the hotel. Two minutes, done.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #travelplanning"
+  },
+  {
+    "id": "w4-02",
+    "date": "2026-10-27",
+    "type": "single",
+    "slides": [
+      {"tpl": "manifesto", "lines": ["City breaks.", "Beach resorts.", "Last-minute trips."], "title": "2M+ hotels, one search.", "body": "Net rates from 280+ suppliers, plus a flat 10%."}
+    ],
+    "caption": "Paris for the weekend or two weeks by the sea, it's the same search.\n\nResapass looks across 2M+ hotels and 280+ suppliers, then adds one flat 10%. No subscription, no fees added at checkout.\n\nWhere's your next search? Link in bio.\n\n#hotelbooking #travelsmart #citybreak"
+  },
+  {
+    "id": "w4-03",
+    "date": "2026-10-28",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Save this for your family trip", "title": "Booking a hotel with kids? Check these 6 things", "sub": "Fewer surprises at the front desk."},
+      {"tpl": "point", "n": "01", "title": "Enter every guest, with ages.", "body": "Children often count towards room capacity. The right search shows rooms that really fit."},
+      {"tpl": "point", "n": "02", "title": "Count the beds, not the guests.", "body": "A room for four can mean one double and a sofa bed. Read the bed setup."},
+      {"tpl": "point", "n": "03", "title": "Ask for a cot in advance.", "body": "Hotels usually have a limited number. Add it to your special requests."},
+      {"tpl": "point", "n": "04", "title": "Check the extra bed policy.", "body": "Some hotels charge per night for an extra bed or a child. Look before you book."},
+      {"tpl": "point", "n": "05", "title": "Two rooms can beat one big room.", "body": "Compare the price of two standard rooms with a family room. Ask for connecting ones."},
+      {"tpl": "point", "n": "06", "title": "Look at what's around.", "body": "A park, a supermarket and a short walk to transport matter more with kids."},
+      {"tpl": "cta", "title": "Planning the family holiday?", "body": "Compare family rooms on Resapass. Link in bio."}
+    ],
+    "caption": "Booking for the whole family is a different game.\n\nEnter every guest with ages, count the beds, ask for a cot early, check extra bed fees, compare two rooms with one family room and look at what's nearby.\n\nSend this to whoever is planning your next family trip.\n\n#familytravel #travelwithkids #hoteltips"
+  },
+  {
+    "id": "w4-04",
+    "date": "2026-10-29",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p067.jpg", "kicker": "City guide", "title": "Amsterdam: where to stay, by vibe", "body": "5 neighbourhoods, 5 very different trips."},
+      {"tpl": "place", "n": "01", "title": "Canal Ring", "tag": "First time in Amsterdam", "body": "The classic canals, gabled houses and most sights within walking distance."},
+      {"tpl": "place", "n": "02", "title": "Jordaan", "tag": "Village feel", "body": "Quiet canals, brown cafés, small galleries and weekend markets."},
+      {"tpl": "place", "n": "03", "title": "De Pijp", "tag": "Food lovers", "body": "The Albert Cuyp Market, lively terraces and cafés from every corner of the world."},
+      {"tpl": "place", "n": "04", "title": "Museum Quarter", "tag": "Calm & cultural", "body": "The Rijksmuseum, the Van Gogh Museum and Vondelpark nearby."},
+      {"tpl": "place", "n": "05", "title": "Amsterdam Noord", "tag": "Creative & different", "body": "Across the IJ by free ferry. Old shipyards, street art and waterfront spots."},
+      {"tpl": "cta", "title": "Found your neighbourhood?", "body": "Compare Amsterdam hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Amsterdam changes a lot from one side of the canals to the other.\n\nFirst visit? Canal Ring. Village feel? Jordaan. Food? De Pijp. Museums? Museum Quarter. Something different? Noord, a free ferry away.\n\nSend this to the person you're going with.\n\n#amsterdam #amsterdamtravel #citybreak"
+  },
+  {
+    "id": "w4-05",
+    "date": "2026-10-30",
+    "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p040.jpg", "kicker": "Weekend mood", "title": "Wake up to this", "body": "Big windows, soft sheets and the sea outside."}
+    ],
+    "caption": "Friday plan: no alarm, curtains open, coffee in bed.\n\nThe view you wake up to can make a whole trip. When you book, check the room type for the view, not just the hotel.\n\nTag the person who'd never leave this bed.\n\n#hotelroom #weekendvibes #travelinspiration"
+  },
+  {
+    "id": "w4-06",
+    "date": "2026-10-31",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "cover", "kicker": "Travel hack", "title": "Early flight in, late flight out", "sub": "How to handle the hours outside check-in."},
+      {"tpl": "point", "n": "01", "title": "Leave your bags at the hotel.", "body": "Most hotels will store luggage before check-in and after check-out. Just ask."},
+      {"tpl": "point", "n": "02", "title": "Ask for early check-in when you book.", "body": "Add it to your special requests. It's never guaranteed, but it helps the hotel plan."},
+      {"tpl": "point", "n": "03", "title": "Landing at dawn? Book the night before.", "body": "One extra night means a room is ready the moment you arrive. Compare the cost."},
+      {"tpl": "point", "n": "04", "title": "Pack a small day bag on top.", "body": "Charger, toothbrush and a change of clothes, so the big case can stay locked away."},
+      {"tpl": "point", "n": "05", "title": "Plan an easy first and last day.", "body": "Choose sights close to the hotel, so picking up your bags takes minutes, not an hour."},
+      {"tpl": "cta", "title": "Booking around a flight?", "body": "Compare hotels near your arrival on Resapass. Link in bio."}
+    ],
+    "caption": "Your flight lands at 7am, check-in is at 3pm. Now what?\n\nLeave your bags at the hotel, ask for early check-in when you book, add the night before if you land at dawn, keep a small day bag ready and plan an easy first and last day.\n\nSave this for your next early flight.\n\n#travelhacks #traveltips #hoteltips"
+  },
+  {
+    "id": "w4-07",
+    "date": "2026-11-01",
+    "type": "single",
+    "slides": [
+      {"tpl": "question", "kicker": "Be honest", "title": "Unpack, or live out of the suitcase?", "body": "First thing in a hotel room. Which one are you? Tell us in the comments."}
+    ],
+    "caption": "Two kinds of travellers. Which one are you? 👇\n\nEverything in the drawers within ten minutes, or the suitcase open on the floor until the last day? Tell us in the comments.\n\n#hotelroom #travel #travelquestions"
+  }
+]
