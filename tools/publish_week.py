@@ -2,6 +2,8 @@
 import json, shutil, pathlib, subprocess, sys, tempfile
 src = sys.argv[1]; root = pathlib.Path(__file__).resolve().parent.parent
 base = "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main"
+# videos via jsDelivr: GitHub raw serves mp4 as application/octet-stream, jsDelivr as video/mp4 (Instagram wants a real video type)
+cdn = "https://cdn.jsdelivr.net/gh/resapasstravel/resapass-insta@main"
 tmp = tempfile.mkdtemp()
 subprocess.run([sys.executable, str(root/"tools/render.py"), src, tmp], check=True)
 for p in json.load(open(pathlib.Path(tmp)/"queue.json")):
@@ -10,7 +12,7 @@ for p in json.load(open(pathlib.Path(tmp)/"queue.json")):
     (root/"daily").mkdir(exist_ok=True)
     if p["type"] == "reel":
         shutil.copy(pathlib.Path(tmp)/p["images"][0], d/"reel.mp4"); shutil.copy(pathlib.Path(tmp)/p["images"][1], d/"cover.jpg")
-        json.dump({"date": p["date"], "type": "reel", "video_url": f"{base}/posts/{p['date']}/reel.mp4",
+        json.dump({"date": p["date"], "type": "reel", "video_url": f"{cdn}/posts/{p['date']}/reel.mp4",
                    "cover_url": f"{base}/posts/{p['date']}/cover.jpg", "caption": p["caption"]},
                   open(root/"daily"/f"{p['date']}.json", "w"), indent=2, ensure_ascii=False)
         print("ok", p["date"], "reel"); continue

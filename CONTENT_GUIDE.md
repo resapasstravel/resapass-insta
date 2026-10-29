@@ -23,7 +23,7 @@ Text-only templates (manifesto, bigstat, question, cover) are now the exception:
 ## Reels (tools/reel.py, called by publish_week.py)
 Post: `{"id","date","type":"reel","scenes":[{"image","kicker"?,"title","body"?}, ...],"end":{"title","body"},"caption"}`.
 2 to 4 photo scenes (3 is ideal, about 11 s), each with a slow pan/zoom and a short animated title (under ~35 characters) and body (under ~50). The end card is the brand slide with the resapass.co button.
-Output: `posts/<date>/reel.mp4` (1080x1920, H.264, silent AAC, 30 fps) and `posts/<date>/cover.jpg`; the daily file has `type: "reel"`, `video_url`, `cover_url`, `caption` (Make route 3). No music is baked in.
+Output: `posts/<date>/reel.mp4` (1080x1920, H.264, silent AAC, 30 fps) and `posts/<date>/cover.jpg`; the daily file has `type: "reel"`, `video_url` (jsDelivr, served as video/mp4), `cover_url`, `caption` (Make route 3). No music is baked in.
 Check frames after rendering (ffmpeg -ss <t> -i reel.mp4 -frames:v 1 x.jpg): text readable, nothing under the bottom 400 px.
 
 ## Templates (tools/render.py)
