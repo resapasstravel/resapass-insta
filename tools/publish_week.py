@@ -6,6 +6,14 @@ tmp = tempfile.mkdtemp()
 subprocess.run([sys.executable, str(root/"tools/render.py"), src, tmp], check=True)
 for p in json.load(open(pathlib.Path(tmp)/"queue.json")):
     d = root/"posts"/p["date"]; d.mkdir(parents=True, exist_ok=True); urls = []
+    for old in d.glob("*"): old.unlink()
+    (root/"daily").mkdir(exist_ok=True)
+    if p["type"] == "reel":
+        shutil.copy(pathlib.Path(tmp)/p["images"][0], d/"reel.mp4"); shutil.copy(pathlib.Path(tmp)/p["images"][1], d/"cover.jpg")
+        json.dump({"date": p["date"], "type": "reel", "video_url": f"{base}/posts/{p['date']}/reel.mp4",
+                   "cover_url": f"{base}/posts/{p['date']}/cover.jpg", "caption": p["caption"]},
+                  open(root/"daily"/f"{p['date']}.json", "w"), indent=2, ensure_ascii=False)
+        print("ok", p["date"], "reel"); continue
     for i, f in enumerate(p["images"], 1):
         shutil.copy(pathlib.Path(tmp)/f, d/f"{i}.jpg"); urls.append(f"{base}/posts/{p['date']}/{i}.jpg")
     (root/"daily").mkdir(exist_ok=True)

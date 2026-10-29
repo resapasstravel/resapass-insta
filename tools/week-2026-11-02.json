@@ -4,39 +4,138 @@
     "date": "2026-11-02",
     "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "Booking basics", "title": "What's actually in a hotel price?", "sub": "The parts of the total, explained."},
-      {"tpl": "point", "n": "01", "title": "The room rate.", "body": "What the hotel charges for the room, the dates and the board you picked."},
-      {"tpl": "point", "n": "02", "title": "Taxes.", "body": "VAT or sales tax is usually in the total you see. The price breakdown shows it."},
-      {"tpl": "point", "n": "03", "title": "City or tourist tax.", "body": "Many cities charge it per person, per night. It's often paid at the hotel on arrival."},
-      {"tpl": "point", "n": "04", "title": "Resort or facility fees.", "body": "Some hotels add a daily fee for the pool, gym or wifi. Your booking details list it."},
-      {"tpl": "point", "n": "05", "title": "A deposit at check-in.", "body": "Some hotels hold a refundable amount on your card for extras. It's released after your stay."},
-      {"tpl": "point", "n": "06", "title": "Our flat 10%.", "body": "On Resapass it's already in the price you see. No booking fee added at checkout."},
-      {"tpl": "cta", "title": "Want a clear total?", "body": "Compare hotels on Resapass. Link in bio."}
+      {
+        "tpl": "photo",
+        "image": "p082.jpg",
+        "kicker": "Booking basics",
+        "title": "What's actually in a hotel price?",
+        "body": "The parts of the total, explained."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "The room rate.",
+        "body": "What the hotel charges for the room, the dates and the board you picked."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Taxes.",
+        "body": "VAT or sales tax is usually in the total you see. The price breakdown shows it."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "City or tourist tax.",
+        "body": "Many cities charge it per person, per night. It's often paid at the hotel on arrival."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Resort or facility fees.",
+        "body": "Some hotels add a daily fee for the pool, gym or wifi. Your booking details list it."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "A deposit at check-in.",
+        "body": "Some hotels hold a refundable amount on your card for extras. It's released after your stay."
+      },
+      {
+        "tpl": "point",
+        "n": "06",
+        "title": "Our flat 10%.",
+        "body": "On Resapass it's already in the price you see. No booking fee added at checkout."
+      },
+      {
+        "tpl": "cta",
+        "title": "Want a clear total?",
+        "body": "Compare hotels on Resapass. Link in bio."
+      }
     ],
     "caption": "The price on the screen is not always the whole story.\n\nA hotel total can include the room rate, taxes, a city tax paid on arrival, resort fees and a deposit held at check-in. On Resapass, our flat 10% is already in the price, with nothing added at checkout.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #travelbudget"
   },
   {
     "id": "w5-02",
     "date": "2026-11-03",
-    "type": "single",
-    "slides": [
-      {"tpl": "manifesto", "lines": ["Plans change.", "Flights move.", "Life happens."], "title": "Free cancellation on most rooms.", "body": "Book now, decide later. Just check the deadline."}
+    "type": "reel",
+    "caption": "Plans change. Your hotel booking shouldn't trap you.\n\nMost rooms on Resapass come with free cancellation. Book when you find the right place, then change your mind before the deadline shown in your booking if plans move.\n\nFind a room you can cancel. Link in bio.\n\n#freecancellation #hotelbooking #travelsmart",
+    "scenes": [
+      {
+        "image": "p094.jpg",
+        "kicker": "Real talk",
+        "title": "Plans change.",
+        "body": "New dates, new boss, new idea."
+      },
+      {
+        "image": "p089.jpg",
+        "title": "Flights move.",
+        "body": "It happens more than anyone admits."
+      },
+      {
+        "image": "p101.jpg",
+        "title": "Your hotel can move too.",
+        "body": "Free cancellation on most rooms."
+      }
     ],
-    "caption": "Booking early shouldn't mean being stuck.\n\nMost rooms on Resapass come with free cancellation. Book when you find the right place, then change your mind before the deadline shown in your booking if plans move.\n\nFind a room you can cancel. Link in bio.\n\n#freecancellation #hotelbooking #travelsmart"
+    "end": {
+      "title": "Book now. Decide later.",
+      "body": "Just check the cancellation deadline in your booking."
+    }
   },
   {
     "id": "w5-03",
     "date": "2026-11-04",
     "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "Save this before you book", "title": "6 hotel location mistakes to avoid", "sub": "The map matters as much as the room."},
-      {"tpl": "point", "n": "01", "title": "Trusting \"centre\" in the name.", "body": "Check the real distance on a map. Names and descriptions can be generous."},
-      {"tpl": "point", "n": "02", "title": "Ignoring the route from the station.", "body": "Arriving late with luggage? Look at the walk from the station or airport first."},
-      {"tpl": "point", "n": "03", "title": "Forgetting about hills.", "body": "In some cities, a short distance can mean a steep climb. Street view helps."},
-      {"tpl": "point", "n": "04", "title": "Booking above the nightlife.", "body": "Light sleeper on a lively street? Read reviews for noise and ask for a quiet room."},
-      {"tpl": "point", "n": "05", "title": "Missing the last ride back.", "body": "Staying out of town? Check when the last train or bus runs to your hotel."},
-      {"tpl": "point", "n": "06", "title": "Checking the hotel, not the area.", "body": "Look for a supermarket, a pharmacy and somewhere to eat within a few minutes."},
-      {"tpl": "cta", "title": "Found the right spot?", "body": "Compare hotels in that area on Resapass. Link in bio."}
+      {
+        "tpl": "photo",
+        "image": "p090.jpg",
+        "kicker": "Save this before you book",
+        "title": "6 hotel location mistakes to avoid",
+        "body": "The map matters as much as the room."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "Trusting \"centre\" in the name.",
+        "body": "Check the real distance on a map. Names and descriptions can be generous."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "Ignoring the route from the station.",
+        "body": "Arriving late with luggage? Look at the walk from the station or airport first."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "Forgetting about hills.",
+        "body": "In some cities, a short distance can mean a steep climb. Street view helps."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "Booking above the nightlife.",
+        "body": "Light sleeper on a lively street? Read reviews for noise and ask for a quiet room."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "Missing the last ride back.",
+        "body": "Staying out of town? Check when the last train or bus runs to your hotel."
+      },
+      {
+        "tpl": "point",
+        "n": "06",
+        "title": "Checking the hotel, not the area.",
+        "body": "Look for a supermarket, a pharmacy and somewhere to eat within a few minutes."
+      },
+      {
+        "tpl": "cta",
+        "title": "Found the right spot?",
+        "body": "Compare hotels in that area on Resapass. Link in bio."
+      }
     ],
     "caption": "A great room in the wrong place can still ruin a trip.\n\nCheck the real distance, the route from the station, the hills, the noise, the last train back and what's around the hotel. Five minutes on the map saves a lot of walking.\n\nSave this for your next city break.\n\n#traveltips #hoteltips #citybreak"
   },
@@ -45,38 +144,137 @@
     "date": "2026-11-05",
     "type": "carousel",
     "slides": [
-      {"tpl": "photo", "image": "p066.jpg", "kicker": "City guide", "title": "Barcelona: where to stay, by vibe", "body": "5 neighbourhoods, 5 very different trips."},
-      {"tpl": "place", "n": "01", "title": "Gothic Quarter", "tag": "First time in Barcelona", "body": "Medieval lanes, the cathedral and La Rambla a few steps away."},
-      {"tpl": "place", "n": "02", "title": "El Born", "tag": "Bars & boutiques", "body": "Narrow streets, the Picasso Museum and the church of Santa Maria del Mar."},
-      {"tpl": "place", "n": "03", "title": "Eixample", "tag": "Modernist & central", "body": "Wide avenues, Casa Batlló, La Pedrera and easy metro links."},
-      {"tpl": "place", "n": "04", "title": "Gràcia", "tag": "Local village feel", "body": "Small squares, independent shops and a walk up to Park Güell."},
-      {"tpl": "place", "n": "05", "title": "Barceloneta", "tag": "Beach lovers", "body": "Seafood restaurants, the promenade and the sea at the end of the street."},
-      {"tpl": "cta", "title": "Which one is yours?", "body": "Compare Barcelona hotels on Resapass. Link in bio."}
+      {
+        "tpl": "photo",
+        "image": "p066.jpg",
+        "kicker": "City guide",
+        "title": "Barcelona: where to stay, by vibe",
+        "body": "5 neighbourhoods, 5 very different trips."
+      },
+      {
+        "tpl": "place",
+        "n": "01",
+        "title": "Gothic Quarter",
+        "tag": "First time in Barcelona",
+        "body": "Medieval lanes, the cathedral and La Rambla a few steps away."
+      },
+      {
+        "tpl": "place",
+        "n": "02",
+        "title": "El Born",
+        "tag": "Bars & boutiques",
+        "body": "Narrow streets, the Picasso Museum and the church of Santa Maria del Mar."
+      },
+      {
+        "tpl": "place",
+        "n": "03",
+        "title": "Eixample",
+        "tag": "Modernist & central",
+        "body": "Wide avenues, Casa Batlló, La Pedrera and easy metro links."
+      },
+      {
+        "tpl": "place",
+        "n": "04",
+        "title": "Gràcia",
+        "tag": "Local village feel",
+        "body": "Small squares, independent shops and a walk up to Park Güell."
+      },
+      {
+        "tpl": "place",
+        "n": "05",
+        "title": "Barceloneta",
+        "tag": "Beach lovers",
+        "body": "Seafood restaurants, the promenade and the sea at the end of the street."
+      },
+      {
+        "tpl": "cta",
+        "title": "Which one is yours?",
+        "body": "Compare Barcelona hotels on Resapass. Link in bio."
+      }
     ],
     "caption": "Barcelona feels like a different city from one neighbourhood to the next.\n\nFirst visit? Gothic Quarter. Bars and boutiques? El Born. Gaudí and good transport? Eixample. Local squares? Gràcia. The sea? Barceloneta.\n\nSend this to the person you're going with.\n\n#barcelona #barcelonatravel #citybreak"
   },
   {
     "id": "w5-05",
     "date": "2026-11-06",
-    "type": "single",
-    "slides": [
-      {"tpl": "photo", "image": "p114.jpg", "kicker": "Weekend mood", "title": "Nowhere to be this morning", "body": "Green outside, warm sheets inside. The plan."}
+    "type": "reel",
+    "caption": "November weekends were made for slow mornings.\n\nNo alarm, a slow breakfast and nothing booked before noon. Tip: ask about late check-out when you arrive. The worst answer is no.\n\nSend this to someone who needs a weekend off.\n\n#weekendgetaway #hotelroom #slowtravel",
+    "scenes": [
+      {
+        "image": "p114.jpg",
+        "kicker": "Weekend mood",
+        "title": "Nowhere to be this morning.",
+        "body": "No alarm. Curtains half open."
+      },
+      {
+        "image": "p119.jpg",
+        "title": "Breakfast with a view.",
+        "body": "Room service exists for days like this."
+      },
+      {
+        "image": "p120.jpg",
+        "title": "Then ask for late check-out.",
+        "body": "The worst answer is no."
+      }
     ],
-    "caption": "November weekends were made for slow mornings.\n\nNo alarm, a window full of trees and nothing booked before noon. Tip: ask about late check-out when you arrive. The worst answer is no.\n\nSend this to someone who needs a weekend off.\n\n#weekendgetaway #hotelroom #slowtravel"
+    "end": {
+      "title": "Your slow weekend starts here.",
+      "body": "Compare hotels on Resapass. Link in bio."
+    }
   },
   {
     "id": "w5-06",
     "date": "2026-11-07",
     "type": "carousel",
     "slides": [
-      {"tpl": "cover", "kicker": "Travel hack", "title": "Forgot something? Ask reception first", "sub": "Things many hotels keep behind the desk."},
-      {"tpl": "point", "n": "01", "title": "A plug adaptor or a charger.", "body": "Many front desks keep adaptors and cables to lend. Ask before you buy one."},
-      {"tpl": "point", "n": "02", "title": "A toothbrush or a razor.", "body": "Forgotten toiletries are a classic. Hotels often have basic kits ready."},
-      {"tpl": "point", "n": "03", "title": "An umbrella.", "body": "Rain on day one? Some hotels lend umbrellas at the door."},
-      {"tpl": "point", "n": "04", "title": "An iron or a steamer.", "body": "Outfit for a meeting or a wedding? Ask for one instead of hunting for a shop."},
-      {"tpl": "point", "n": "05", "title": "A different room.", "body": "Noise from the street or the lift? Ask early in your stay, while rooms are free."},
-      {"tpl": "point", "n": "06", "title": "Local tips.", "body": "Staff know the bakery round the corner and where locals actually eat."},
-      {"tpl": "cta", "title": "Planning the next trip?", "body": "Compare hotels on Resapass. Link in bio."}
+      {
+        "tpl": "photo",
+        "image": "p059.jpg",
+        "kicker": "Travel hack",
+        "title": "Forgot something? Ask reception first",
+        "body": "Things many hotels keep behind the desk."
+      },
+      {
+        "tpl": "point",
+        "n": "01",
+        "title": "A plug adaptor or a charger.",
+        "body": "Many front desks keep adaptors and cables to lend. Ask before you buy one."
+      },
+      {
+        "tpl": "point",
+        "n": "02",
+        "title": "A toothbrush or a razor.",
+        "body": "Forgotten toiletries are a classic. Hotels often have basic kits ready."
+      },
+      {
+        "tpl": "point",
+        "n": "03",
+        "title": "An umbrella.",
+        "body": "Rain on day one? Some hotels lend umbrellas at the door."
+      },
+      {
+        "tpl": "point",
+        "n": "04",
+        "title": "An iron or a steamer.",
+        "body": "Outfit for a meeting or a wedding? Ask for one instead of hunting for a shop."
+      },
+      {
+        "tpl": "point",
+        "n": "05",
+        "title": "A different room.",
+        "body": "Noise from the street or the lift? Ask early in your stay, while rooms are free."
+      },
+      {
+        "tpl": "point",
+        "n": "06",
+        "title": "Local tips.",
+        "body": "Staff know the bakery round the corner and where locals actually eat."
+      },
+      {
+        "tpl": "cta",
+        "title": "Planning the next trip?",
+        "body": "Compare hotels on Resapass. Link in bio."
+      }
     ],
     "caption": "Left your charger at home? Don't head to the shops yet.\n\nMany hotels can lend an adaptor, an umbrella or an iron, have spare toiletries, move you to a quieter room or point you to the best bakery nearby. You only have to ask.\n\nSave this for your next trip.\n\n#travelhacks #hoteltips #traveltips"
   },
@@ -85,7 +283,13 @@
     "date": "2026-11-08",
     "type": "single",
     "slides": [
-      {"tpl": "question", "kicker": "This or that", "title": "Big hotel or small boutique?", "body": "Where do you feel most at home on a trip? Tell us in the comments."}
+      {
+        "tpl": "photo",
+        "image": "p125.jpg",
+        "kicker": "This or that",
+        "title": "Big hotel or small boutique?",
+        "body": "Where do you feel most at home on a trip? Tell us in the comments."
+      }
     ],
     "caption": "Pool, gym and room service, or ten rooms and a host who knows your name? 👇\n\nBig hotel or small boutique, which one do you pick every time? Tell us in the comments.\n\n#hotels #travel #travelquestions"
   }

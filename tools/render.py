@@ -99,7 +99,13 @@ def main(src, out):
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": W, "height": H})
+        rpg = None
         for post in posts:
+            if post.get("type") == "reel":
+                import reel
+                rpg = rpg or b.new_page(viewport={"width": reel.W, "height": reel.H})
+                post["images"] = reel.render(post, out, rpg)
+                continue
             n = len(post["slides"]); files = []
             for i, sl in enumerate(post["slides"]):
                 pg.set_content(slide(sl, i, n)); pg.wait_for_timeout(50)
@@ -110,7 +116,7 @@ def main(src, out):
             post["images"] = files
         b.close()
     json.dump(posts, open(out / "queue.json", "w"), indent=2, ensure_ascii=False)
-    print("rendered", sum(len(p["images"]) for p in posts), "images")
+    print("rendered", sum(len(p["images"]) for p in posts), "files")
 
 if __name__ == "__main__":
     main(sys.argv[1], sys.argv[2])
