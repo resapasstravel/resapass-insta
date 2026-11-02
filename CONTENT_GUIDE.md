@@ -26,6 +26,13 @@ Post: `{"id","date","type":"reel","scenes":[{"image","kicker"?,"title","body"?},
 Output: `posts/<date>/reel.mp4` (1080x1920, H.264, silent AAC, 30 fps) and `posts/<date>/cover.jpg`; the daily file has `type: "reel"`, `video_url` (jsDelivr, served as video/mp4), `cover_url`, `caption` (Make route 3). No music is baked in.
 Check frames after rendering (ffmpeg -ss <t> -i reel.mp4 -frames:v 1 x.jpg): text readable, nothing under the bottom 400 px.
 
+## Visual style: A "Editorial" (chosen by Olivier, 2 Nov 2026)
+Goal: a beautiful, magazine-like feed where the photos are the stars. Implemented in `tools/style.py`, `render.py` and `reel.py`.
+- Serif titles (Fraunces) with Inter for small text; cream (#F3EEE6) inner slides with an italic sky-blue number; navy for CTA slides.
+- Every photo gets the same soft warm grade automatically, so the grid looks like one set.
+- Titles use "|" to split a short main line from an italic second line: "Barcelona|where to stay, by vibe", "Forgot something?|Ask reception first". Use it on every photo cover, reel opening scene and reel end card. Keep the main line short (under ~20 characters). When a title has "|", the body is not shown on photo covers, so the italic line must carry the idea.
+- Keep covers calm: one kicker, one title. No exclamation marks, no emojis on images.
+
 ## Templates (tools/render.py)
 cover(kicker,title,sub) · point(n,title,body) · place(n,title,tag,body) · stat(big,title,body) · bigstat(kicker,big,title,body) · manifesto(lines[],title,body) · question(kicker,title,body) · cta(title,body).
 Carousels: cover first, cta last, 5 to 9 slides. Titles under ~60 characters, bodies under ~120.

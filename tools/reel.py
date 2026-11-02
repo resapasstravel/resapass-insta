@@ -10,45 +10,53 @@ Output: <id>.mp4 and <id>-cover.jpg (first scene, text visible) in the out dir.
 """
 import base64, html, io, json, pathlib, subprocess, sys
 from PIL import Image
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from style import FONTS, grade_img, split_title
 
 W, H, FPS = 1080, 1920, 30
 SCENE, END, FADE = 3.2, 2.6, 0.45
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 B = ROOT / "tools" / "brand"
-NAVY, DEEP, CREAM, SUN = "#29265C", "#19173D", "#F3F7FB", "#69B9E8"
+NAVY, DEEP, CREAM, SUN = "#29265C", "#19173D", "#F3EEE6", "#69B9E8"
 
 def b64(p, mime="image/png"): return f"data:{mime};base64," + base64.b64encode(pathlib.Path(p).read_bytes()).decode()
 def esc(s): return html.escape(s or "")
 
-BASE = f"""*{{margin:0;padding:0;box-sizing:border-box}}
+BASE = f"""{FONTS}*{{margin:0;padding:0;box-sizing:border-box}}
 body{{width:{W}px;height:{H}px;background:transparent;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}}
-.k{{font-weight:600;font-size:34px;letter-spacing:.14em;text-transform:uppercase;color:#fff;opacity:.9}}
-h1{{font-family:'Inter Display';font-weight:800;font-size:116px;line-height:1.0;letter-spacing:-.035em;color:#fff}}
+.k{{font-weight:600;font-size:28px;letter-spacing:.28em;text-transform:uppercase;color:#fff;opacity:.92}}
+.rule{{width:60px;height:2px;background:#fff;opacity:.6;margin:28px 0 32px}}
+h1{{font-family:'Fraunces',serif;font-weight:400;font-size:118px;line-height:1.03;letter-spacing:-.015em;color:#fff}}
+.it{{font-family:'Fraunces',serif;font-style:italic;font-weight:300;font-size:76px;line-height:1.12;color:#fff;margin-top:12px}}
 p{{font-size:42px;line-height:1.38;color:#fff;opacity:.9}}
-.btn{{display:inline-block;background:{SUN};color:{DEEP};font-weight:700;font-size:40px;padding:28px 50px;border-radius:999px}}"""
+.btn{{display:inline-block;background:{CREAM};color:{NAVY};font-weight:600;font-size:36px;letter-spacing:.04em;padding:26px 48px;border-radius:999px}}"""
 
 def text_html(sc):
-    kick = f'<div class="k">{esc(sc.get("kicker"))}</div><div style="height:28px"></div>' if sc.get("kicker") else ""
-    body = f'<div style="height:30px"></div><p>{esc(sc.get("body"))}</p>' if sc.get("body") else ""
+    kick = f'<div class="k">{esc(sc.get("kicker"))}</div><div class="rule"></div>' if sc.get("kicker") else ""
+    main, it = split_title(sc["title"])
+    itl = f'<div class="it">{esc(it)}</div>' if it else ""
+    body = f'<div style="height:30px"></div><p>{esc(sc.get("body"))}</p>' if sc.get("body") and not it else ""
     return (f'<!doctype html><html><head><meta charset="utf-8"><style>{BASE}</style></head><body>'
-            f'<div style="position:absolute;left:88px;right:170px;bottom:430px">{kick}<h1>{esc(sc["title"])}</h1>{body}</div>'
+            f'<div style="position:absolute;left:88px;right:170px;bottom:430px">{kick}<h1>{esc(main)}</h1>{itl}{body}</div>'
             f'</body></html>')
 
 def grad_html():
     logo = b64(B / "logo-white.png")
     return (f'<!doctype html><html><head><meta charset="utf-8"><style>{BASE}</style></head><body>'
-            f'<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(25,23,61,.45) 0%,rgba(25,23,61,0) 22%,rgba(25,23,61,0) 40%,rgba(25,23,61,.88) 82%,rgba(25,23,61,.92) 100%)"></div>'
+            f'<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,18,40,.32) 0%,rgba(20,18,40,0) 22%,rgba(20,18,40,0) 42%,rgba(20,18,40,.8) 82%,rgba(20,18,40,.88) 100%)"></div>'
             f'<img src="{logo}" style="position:absolute;top:150px;left:88px;height:54px"></body></html>')
 
 def end_html(e):
     icon, logo = b64(B / "icon-white.png"), b64(B / "logo-white.png")
+    main, it = split_title(e["title"])
+    itl = f'<div class="it">{esc(it)}</div>' if it else ""
     return (f'<!doctype html><html><head><meta charset="utf-8"><style>{BASE}</style></head><body>'
-            f'<div style="position:absolute;inset:0;background:radial-gradient(120% 80% at 85% 0%, #3A3F86 0%, {NAVY} 45%, {DEEP} 100%)"></div>'
+            f'<div style="position:absolute;inset:0;background:radial-gradient(120% 80% at 85% 0%, #34397A 0%, {NAVY} 45%, {DEEP} 100%)"></div>'
             f'<div style="position:absolute;left:88px;right:120px;top:560px">'
-            f'<img src="{icon}" style="height:110px"><div style="height:70px"></div>'
-            f'<h1>{esc(e["title"])}</h1><div style="height:40px"></div><p>{esc(e.get("body"))}</p>'
+            f'<img src="{icon}" style="height:96px;opacity:.9"><div style="height:70px"></div>'
+            f'<h1>{esc(main)}</h1>{itl}<div class="rule"></div><p>{esc(e.get("body"))}</p>'
             f'<div style="height:60px"></div><div class="btn">resapass.co</div></div>'
-            f'<img src="{logo}" style="position:absolute;bottom:200px;left:88px;height:56px"></body></html>')
+            f'<img src="{logo}" style="position:absolute;bottom:200px;left:88px;height:52px;opacity:.92"></body></html>')
 
 def shoot(pg, doc, transparent=True):
     pg.set_content(doc); pg.wait_for_timeout(80)
@@ -82,7 +90,7 @@ def render(post, out, pg):
     grad = shoot(pg, grad_html())
     scenes = []
     for k, sc in enumerate(post["scenes"]):
-        img = Image.open(ROOT / "photos" / sc["image"]).convert("RGB")
+        img = grade_img(sc["image"])
         scenes.append(("photo", img, shoot(pg, text_html(sc)), 1 if k % 2 == 0 else -1, SCENE))
     endimg = shoot(pg, end_html(post["end"]), transparent=False)
     scenes.append(("end", endimg, None, 0, END))

@@ -8,7 +8,7 @@
         "tpl": "photo",
         "image": "p082.jpg",
         "kicker": "Booking basics",
-        "title": "What's actually in a hotel price?",
+        "title": "What's actually|in a hotel price?",
         "body": "The parts of the total, explained."
       },
       {
@@ -79,7 +79,7 @@
       }
     ],
     "end": {
-      "title": "Book now. Decide later.",
+      "title": "Book now.|Decide later.",
       "body": "Just check the cancellation deadline in your booking."
     }
   },
@@ -92,7 +92,7 @@
         "tpl": "photo",
         "image": "p090.jpg",
         "kicker": "Save this before you book",
-        "title": "6 hotel location mistakes to avoid",
+        "title": "6 hotel location|mistakes to avoid",
         "body": "The map matters as much as the room."
       },
       {
@@ -148,7 +148,7 @@
         "tpl": "photo",
         "image": "p066.jpg",
         "kicker": "City guide",
-        "title": "Barcelona: where to stay, by vibe",
+        "title": "Barcelona|where to stay, by vibe",
         "body": "5 neighbourhoods, 5 very different trips."
       },
       {
@@ -203,7 +203,7 @@
       {
         "image": "p114.jpg",
         "kicker": "Weekend mood",
-        "title": "Nowhere to be this morning.",
+        "title": "Nowhere to be|this morning.",
         "body": "No alarm. Curtains half open."
       },
       {
@@ -218,7 +218,7 @@
       }
     ],
     "end": {
-      "title": "Your slow weekend starts here.",
+      "title": "Your slow weekend|starts here.",
       "body": "Compare hotels on Resapass. Link in bio."
     }
   },
@@ -231,7 +231,7 @@
         "tpl": "photo",
         "image": "p059.jpg",
         "kicker": "Travel hack",
-        "title": "Forgot something? Ask reception first",
+        "title": "Forgot something?|Ask reception first",
         "body": "Things many hotels keep behind the desk."
       },
       {
@@ -287,7 +287,7 @@
         "tpl": "photo",
         "image": "p125.jpg",
         "kicker": "This or that",
-        "title": "Big hotel or small boutique?",
+        "title": "Big hotel|or small boutique?",
         "body": "Where do you feel most at home on a trip? Tell us in the comments."
       }
     ],
