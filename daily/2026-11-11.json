@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-11",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/1.jpg",
+  "caption": "Most check-in stress starts before you even reach the desk.\n\nArriving too early, no ID at hand, only a debit card for the deposit, a late arrival nobody knows about, the city tax and a name that doesn't match. All easy to avoid.\n\nSave this for your next trip.\n\n#hotelcheckin #traveltips #hoteltips",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/6.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/7.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-11/8.jpg"
+    }
+  ]
+}

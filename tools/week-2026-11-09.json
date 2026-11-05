@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w6-01",
+    "date": "2026-11-09",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p136.jpg", "kicker": "Booking basics", "title": "Twin or double?|Room names, decoded", "body": "What the room names really mean."},
+      {"tpl": "point", "n": "01", "title": "Single.", "body": "Made for one guest. The bed can be a single or a small double."},
+      {"tpl": "point", "n": "02", "title": "Double.", "body": "One bed for two people. Check the bed size if you like space."},
+      {"tpl": "point", "n": "03", "title": "Twin.", "body": "Two separate beds. Handy for friends or colleagues sharing a room."},
+      {"tpl": "point", "n": "04", "title": "Superior or deluxe.", "body": "Each hotel sets its own categories. Compare the size and the photos, not the name."},
+      {"tpl": "point", "n": "05", "title": "Junior suite.", "body": "Usually one bigger room with a sitting area, not a separate living room."},
+      {"tpl": "point", "n": "06", "title": "Room assigned at check-in.", "body": "Sometimes called run of house. The hotel picks your room type when you arrive."},
+      {"tpl": "cta", "title": "Know what you're booking?", "body": "Compare rooms on Resapass. Link in bio."}
+    ],
+    "caption": "Twin, double, superior, junior suite. Room names can be confusing.\n\nTwin means two beds, double means one bed for two. Superior and deluxe are each hotel's own labels, so compare the size and the photos. A junior suite is usually one bigger room with a sitting area.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #hotelroom"
+  },
+  {
+    "id": "w6-02",
+    "date": "2026-11-10",
+    "type": "reel",
+    "caption": "No membership to buy before you see a good price.\n\nResapass shows net rates from 280+ suppliers plus a flat 10%, already in the price you see. No subscription, no hidden fees.\n\nCompare your next hotel. Link in bio.\n\n#hotelbooking #travelsmart #nohiddenfees",
+    "scenes": [
+      {"image": "p148.jpg", "kicker": "Real talk", "title": "No subscription.|No membership.", "body": "No yearly fee to see good prices."},
+      {"image": "p049.jpg", "title": "Just net rates.", "body": "From 280+ suppliers, compared for you."},
+      {"image": "p109.jpg", "title": "Plus a flat 10%.", "body": "Already in the price you see."}
+    ],
+    "end": {"title": "Pay for the room.|Nothing more.", "body": "No subscription, no hidden fees. Link in bio."}
+  },
+  {
+    "id": "w6-03",
+    "date": "2026-11-11",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p149.jpg", "kicker": "Save this before you travel", "title": "Check-in day|6 mistakes to avoid", "body": "Small things that slow you down at the desk."},
+      {"tpl": "point", "n": "01", "title": "Arriving hours before check-in.", "body": "Your room may not be ready. Ask to leave your bags and go explore."},
+      {"tpl": "point", "n": "02", "title": "No ID at hand.", "body": "Many hotels ask to see a passport or ID card. Keep it in your hand luggage."},
+      {"tpl": "point", "n": "03", "title": "Only a debit card.", "body": "Some hotels hold a deposit and prefer a credit card. Check the hotel's policy first."},
+      {"tpl": "point", "n": "04", "title": "Not warning about a late arrival.", "body": "Landing after midnight? Message the hotel so they know you're still coming."},
+      {"tpl": "point", "n": "05", "title": "Forgetting the city tax.", "body": "In many cities it's paid at the hotel on arrival. Keep a little budget for it."},
+      {"tpl": "point", "n": "06", "title": "A name that doesn't match.", "body": "The name on the booking should match the guest's ID. Double-check before you confirm."},
+      {"tpl": "cta", "title": "Ready for check-in?", "body": "Find your next hotel on Resapass. Link in bio."}
+    ],
+    "caption": "Most check-in stress starts before you even reach the desk.\n\nArriving too early, no ID at hand, only a debit card for the deposit, a late arrival nobody knows about, the city tax and a name that doesn't match. All easy to avoid.\n\nSave this for your next trip.\n\n#hotelcheckin #traveltips #hoteltips"
+  },
+  {
+    "id": "w6-04",
+    "date": "2026-11-12",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p142.jpg", "kicker": "Coast guide", "title": "Amalfi Coast|where to stay, by vibe", "body": "5 towns, 5 very different trips."},
+      {"tpl": "place", "n": "01", "title": "Positano", "tag": "Postcard views", "body": "Pastel houses stacked down the cliff, a lively beach and lots of steps."},
+      {"tpl": "place", "n": "02", "title": "Amalfi", "tag": "Central & connected", "body": "The cathedral, the main ferry pier and buses along the coast."},
+      {"tpl": "place", "n": "03", "title": "Ravello", "tag": "Quiet & romantic", "body": "High above the sea, with the gardens of Villa Rufolo and Villa Cimbrone."},
+      {"tpl": "place", "n": "04", "title": "Praiano", "tag": "Calm sunsets", "body": "Between Positano and Amalfi, smaller and slower, facing west."},
+      {"tpl": "place", "n": "05", "title": "Sorrento", "tag": "Easy base", "body": "Just off the coast, with trains to Naples and Pompeii and ferries to Capri."},
+      {"tpl": "cta", "title": "Which one is yours?", "body": "Compare Amalfi Coast hotels on Resapass. Link in bio."}
+    ],
+    "caption": "The Amalfi Coast is not one place. Each town sets a different pace.\n\nViews? Positano. Ferries and buses? Amalfi. Quiet gardens? Ravello. Slow sunsets? Praiano. An easy base with trains? Sorrento.\n\nSend this to the person you're going with.\n\n#amalficoast #italytravel #positano"
+  },
+  {
+    "id": "w6-05",
+    "date": "2026-11-13",
+    "type": "reel",
+    "caption": "November is a good month for a city break.\n\nFewer crowds, a free table in the café and a warm room at the end of the day. Pick a hotel close to a tram or metro stop and let the weather do what it wants.\n\nSend this to someone who needs a weekend away.\n\n#citybreak #weekendgetaway #autumntravel",
+    "scenes": [
+      {"image": "p093.jpg", "kicker": "Weekend mood", "title": "Cities in November.|Fewer crowds.", "body": "Room to breathe in the old town."},
+      {"image": "p105.jpg", "title": "Cafés with a free table.", "body": "Stay for one more coffee."},
+      {"image": "p143.jpg", "title": "Then a warm room.", "body": "Tip: stay near a tram or metro stop."}
+    ],
+    "end": {"title": "Off-season|suits you.", "body": "Compare city hotels on Resapass. Link in bio."}
+  },
+  {
+    "id": "w6-06",
+    "date": "2026-11-14",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p134.jpg", "kicker": "Travel hack", "title": "Before you land|save these offline", "body": "No signal, no stress."},
+      {"tpl": "point", "n": "01", "title": "Your booking confirmation.", "body": "Screenshot it or save the PDF. No signal, no problem."},
+      {"tpl": "point", "n": "02", "title": "The hotel address.", "body": "In the local language too, to show a taxi driver."},
+      {"tpl": "point", "n": "03", "title": "An offline map.", "body": "Download the area around your hotel in your maps app before you fly."},
+      {"tpl": "point", "n": "04", "title": "The hotel's phone number.", "body": "Handy for a late arrival or if you can't find the entrance."},
+      {"tpl": "point", "n": "05", "title": "Check-in instructions.", "body": "Key boxes, door codes and night entrances are often in an email."},
+      {"tpl": "point", "n": "06", "title": "Our support details.", "body": "Resapass support answers 7 days a week if anything goes wrong."},
+      {"tpl": "cta", "title": "Trip sorted?", "body": "Find your next hotel on Resapass. Link in bio."}
+    ],
+    "caption": "Landing with no data and no idea where your hotel is? Not this time.\n\nBefore you fly, save your booking confirmation, the hotel address in the local language, an offline map, the hotel's phone number, the check-in instructions and our support details.\n\nSave this for your next trip.\n\n#travelhacks #traveltips #travelsmart"
+  },
+  {
+    "id": "w6-07",
+    "date": "2026-11-15",
+    "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p139.jpg", "kicker": "This or that", "title": "Pool or sea?|Pick one.", "body": "Where do you spend the afternoon? Tell us in the comments."}
+    ],
+    "caption": "Sunbed by the pool, or towel on the sand? 👇\n\nPool or sea, which one wins on your holiday? Tell us in the comments.\n\n#beachholiday #hotelpool #travelquestions"
+  }
+]

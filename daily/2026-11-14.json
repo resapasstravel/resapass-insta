@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-14",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/1.jpg",
+  "caption": "Landing with no data and no idea where your hotel is? Not this time.\n\nBefore you fly, save your booking confirmation, the hotel address in the local language, an offline map, the hotel's phone number, the check-in instructions and our support details.\n\nSave this for your next trip.\n\n#travelhacks #traveltips #travelsmart",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/6.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/7.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-14/8.jpg"
+    }
+  ]
+}

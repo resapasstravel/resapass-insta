@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-09",
+  "type": "carousel",
+  "photo_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/1.jpg",
+  "caption": "Twin, double, superior, junior suite. Room names can be confusing.\n\nTwin means two beds, double means one bed for two. Superior and deluxe are each hotel's own labels, so compare the size and the photos. A junior suite is usually one bigger room with a sitting area.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #hotelroom",
+  "carousel": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/1.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/2.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/3.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/4.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/5.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/6.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/7.jpg"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://raw.githubusercontent.com/resapasstravel/resapass-insta/main/posts/2026-11-09/8.jpg"
+    }
+  ]
+}
