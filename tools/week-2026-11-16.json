@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w7-01",
+    "date": "2026-11-16",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p075.jpg", "kicker": "Booking basics", "title": "Price went up?|Why hotel rates move", "body": "Same room, different price. Here's why."},
+      {"tpl": "point", "n": "01", "title": "Demand.", "body": "When many people search the same dates, rates rise. Quiet dates, lower rates."},
+      {"tpl": "point", "n": "02", "title": "The day of the week.", "body": "Business hotels are often busier Monday to Thursday, leisure spots at the weekend."},
+      {"tpl": "point", "n": "03", "title": "Local events.", "body": "A trade fair, a concert or a big match can fill a city's hotels fast."},
+      {"tpl": "point", "n": "04", "title": "The season.", "body": "Summer on the coast, ski weeks in the mountains. High season costs more."},
+      {"tpl": "point", "n": "05", "title": "Length of stay.", "body": "Some hotels set minimum stays or different rates for longer bookings."},
+      {"tpl": "point", "n": "06", "title": "Who sells the room.", "body": "The same room is sold by many suppliers at different rates. We compare 280+ of them."},
+      {"tpl": "cta", "title": "Found your dates?", "body": "Compare the rates on Resapass. Link in bio."}
+    ],
+    "caption": "Checked a hotel yesterday and the price changed today? That's normal.\n\nHotel rates move with demand, the day of the week, local events, the season and the length of your stay. And the same room is sold by many suppliers at different rates. Resapass compares net rates from 280+ of them, plus a flat 10%.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #hotelprices"
+  },
+  {
+    "id": "w7-02",
+    "date": "2026-11-17",
+    "type": "reel",
+    "caption": "Travel doesn't stop at the weekend, and neither do we.\n\nA question about your booking, your room or your arrival? Resapass support answers 7 days a week, before and during your trip.\n\nBook your next stay with us. Link in bio.\n\n#hotelbooking #travelsupport #traveltips",
+    "scenes": [
+      {"image": "p024.jpg", "kicker": "7 days a week", "title": "Sunday question?|We're here.", "body": "Resapass support answers 7/7."},
+      {"image": "p122.jpg", "title": "About your room?", "body": "Ask us before you travel."},
+      {"image": "p138.jpg", "title": "Arriving late?", "body": "Message us, any day of the week."}
+    ],
+    "end": {"title": "Questions?|Ask us any day.", "body": "Resapass support, 7 days a week. Link in bio."}
+  },
+  {
+    "id": "w7-03",
+    "date": "2026-11-18",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p020.jpg", "kicker": "Save this before you travel", "title": "Checkout day|6 things to do first", "body": "Leave the hotel with everything you came with."},
+      {"tpl": "point", "n": "01", "title": "Ask for late checkout the day before.", "body": "It's easier for the hotel to say yes when it can plan for it."},
+      {"tpl": "point", "n": "02", "title": "Open the safe.", "body": "Passports and jewellery are the classic things left behind."},
+      {"tpl": "point", "n": "03", "title": "Check the plugs.", "body": "Chargers and adapters love to stay in the wall."},
+      {"tpl": "point", "n": "04", "title": "Read the bill before you pay.", "body": "Minibar, breakfast, city tax. Ask if a line doesn't look right."},
+      {"tpl": "point", "n": "05", "title": "Ask for an invoice.", "body": "Travelling for work? Get it at the desk, it's harder to get later."},
+      {"tpl": "point", "n": "06", "title": "Leave your bags at reception.", "body": "Late flight? Many hotels keep luggage for a few hours after checkout."},
+      {"tpl": "cta", "title": "Next trip planned?", "body": "Find your next hotel on Resapass. Link in bio."}
+    ],
+    "caption": "The last morning goes fast. Here's what to do before you hand back the key.\n\nAsk for late checkout the day before, open the safe, check the plugs for chargers, read the bill, ask for an invoice if you travel for work and leave your bags at reception if your flight is late.\n\nSave this for your next trip.\n\n#hotelcheckout #traveltips #hoteltips"
+  },
+  {
+    "id": "w7-04",
+    "date": "2026-11-19",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p141.jpg", "kicker": "City guide", "title": "Florence|where to stay, by vibe", "body": "5 neighbourhoods, 5 different trips."},
+      {"tpl": "place", "n": "01", "title": "Duomo & centre", "tag": "First time, on foot", "body": "The cathedral, the Uffizi and Ponte Vecchio, all within a short walk."},
+      {"tpl": "place", "n": "02", "title": "Oltrarno", "tag": "Artisan & local", "body": "Across the river: workshops, the Pitti Palace and lively Piazza Santo Spirito."},
+      {"tpl": "place", "n": "03", "title": "Santa Croce", "tag": "Food & evenings", "body": "Around the basilica, near Sant'Ambrogio market, with plenty of bars."},
+      {"tpl": "place", "n": "04", "title": "San Niccolò", "tag": "Quiet & scenic", "body": "Small streets below Piazzale Michelangelo and its view over the city."},
+      {"tpl": "place", "n": "05", "title": "Santa Maria Novella", "tag": "Trains & day trips", "body": "Next to the main station, handy for Pisa, Bologna and Rome."},
+      {"tpl": "cta", "title": "Which one is yours?", "body": "Compare Florence hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Florence is small, but each side of the river feels different.\n\nFirst visit? The centre around the Duomo. Workshops and a local piazza? Oltrarno. Food and evenings out? Santa Croce. Quiet streets and views? San Niccolò. Day trips by train? Santa Maria Novella.\n\nSend this to the person you're going with.\n\n#florence #italytravel #firenze"
+  },
+  {
+    "id": "w7-05",
+    "date": "2026-11-20",
+    "type": "reel",
+    "caption": "Grey skies at home? Somewhere it's still summer.\n\nWarm water, breakfast by the pool and a long sunset before dinner. Before you book, check the local rainy season so the sun is really there when you are.\n\nTag the person you'd take with you.\n\n#wintersun #beachholiday #travelinspiration",
+    "scenes": [
+      {"image": "p014.jpg", "kicker": "Weekend mood", "title": "Grey outside?|Chase the sun.", "body": "Somewhere it's still summer."},
+      {"image": "p078.jpg", "title": "Breakfast in the pool.", "body": "Yes, that's a thing."},
+      {"image": "p106.jpg", "title": "Sunset, then dinner.", "body": "Tip: check the local rainy season first."}
+    ],
+    "end": {"title": "Winter sun|is calling.", "body": "Compare beach hotels on Resapass. Link in bio."}
+  },
+  {
+    "id": "w7-06",
+    "date": "2026-11-21",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p144.jpg", "kicker": "Travel hack", "title": "Pack lighter|the hotel often has these", "body": "Leave them out of the suitcase."},
+      {"tpl": "point", "n": "01", "title": "A hairdryer.", "body": "Most hotel rooms have one. Check the room details to be sure."},
+      {"tpl": "point", "n": "02", "title": "Towels.", "body": "Bath towels are standard. Some hotels also lend pool or beach towels."},
+      {"tpl": "point", "n": "03", "title": "Shampoo and shower gel.", "body": "Usually in the bathroom. Bring your own only if you're picky."},
+      {"tpl": "point", "n": "04", "title": "An iron.", "body": "Often available on request from reception, if not already in the room."},
+      {"tpl": "point", "n": "05", "title": "A toothbrush or razor.", "body": "Forgot one? Many receptions keep spare kits."},
+      {"tpl": "point", "n": "06", "title": "An umbrella.", "body": "Some hotels lend them at the door on rainy days. Just ask."},
+      {"tpl": "cta", "title": "Lighter bag, same trip.", "body": "Find your next hotel on Resapass. Link in bio."}
+    ],
+    "caption": "Your suitcase is heavier than it needs to be.\n\nMost hotels already have a hairdryer, towels, shampoo and shower gel. Many can lend an iron, an umbrella or give you a spare toothbrush at reception. Check the room details before you pack.\n\nSave this for your next trip.\n\n#travelhacks #packinglight #traveltips"
+  },
+  {
+    "id": "w7-07",
+    "date": "2026-11-22",
+    "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p150.jpg", "kicker": "This or that", "title": "Early start|or slow morning?", "body": "Out by 8, or still at breakfast at 10? Tell us in the comments."}
+    ],
+    "caption": "Out exploring by 8, or still on your second coffee at 10? 👇\n\nOn holiday, which one are you? Tell us in the comments.\n\n#slowtravel #hotelbreakfast #travelquestions"
+  }
+]
