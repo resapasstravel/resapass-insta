@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w8-01",
+    "date": "2026-11-23",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p151.jpg", "kicker": "Booking basics", "title": "Breakfast included?|Meal plans, decoded", "body": "Know what you're paying for before you book."},
+      {"tpl": "point", "n": "01", "title": "Room only.", "body": "Just the room. Meals are paid on the spot, or eaten outside."},
+      {"tpl": "point", "n": "02", "title": "Bed and breakfast.", "body": "Breakfast every morning of your stay. The most common add-on."},
+      {"tpl": "point", "n": "03", "title": "Half board.", "body": "Breakfast plus one main meal, usually dinner. Drinks are often extra."},
+      {"tpl": "point", "n": "04", "title": "Full board.", "body": "Breakfast, lunch and dinner at the hotel. Handy in remote places."},
+      {"tpl": "point", "n": "05", "title": "All inclusive.", "body": "Meals plus many drinks and snacks. Read what's covered, it varies by hotel."},
+      {"tpl": "point", "n": "06", "title": "Check the details.", "body": "Breakfast hours, buffet or set menu, kids' rates. It's all in the room description."},
+      {"tpl": "cta", "title": "Picked your plan?", "body": "Compare rooms and meal options on Resapass. Link in bio."}
+    ],
+    "caption": "Room only, B&B, half board, full board or all inclusive. Same hotel, very different stay.\n\nRoom only is just the bed. B&B adds breakfast. Half board adds one main meal, usually dinner. Full board covers all three meals. All inclusive adds many drinks and snacks, but what's included changes from one hotel to the next, so read the room description.\n\nSave this for your next booking.\n\n#hotelbooking #traveltips #allinclusive"
+  },
+  {
+    "id": "w8-02",
+    "date": "2026-11-24",
+    "type": "reel",
+    "caption": "Beach bungalow, city hotel or a quiet garden hideaway? It's all in one search.\n\nResapass lists 2M+ hotels worldwide and compares net rates from 280+ suppliers, plus a flat 10%. No subscription, no hidden fees.\n\nFind your next stay. Link in bio.\n\n#hotelbooking #travelplanning #traveltips",
+    "scenes": [
+      {"image": "p080.jpg", "kicker": "2M+ hotels", "title": "A beach week?|It's in there.", "body": "Over 2 million hotels on Resapass."},
+      {"image": "p133.jpg", "title": "A city break?", "body": "Big hotels and small ones."},
+      {"image": "p063.jpg", "title": "Somewhere quiet?", "body": "One search, 280+ suppliers compared."}
+    ],
+    "end": {"title": "Wherever next|we have a room.", "body": "2M+ hotels on Resapass. Link in bio."}
+  },
+  {
+    "id": "w8-03",
+    "date": "2026-11-25",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p030.jpg", "kicker": "Save this before you book", "title": "Trip with friends|6 things to agree first", "body": "Sort these before anyone pays."},
+      {"tpl": "point", "n": "01", "title": "Who books, who pays.", "body": "One person usually holds the booking and the card. Agree how you split it."},
+      {"tpl": "point", "n": "02", "title": "Names on each room.", "body": "Hotels may ask for a guest name per room. Get everyone's details right."},
+      {"tpl": "point", "n": "03", "title": "Twin or double.", "body": "Two friends in one double bed is not always the plan. Pick the bed type per room."},
+      {"tpl": "point", "n": "04", "title": "The cancellation deadline.", "body": "Choose free cancellation if plans are still moving, and note the date."},
+      {"tpl": "point", "n": "05", "title": "Arrival times.", "body": "Someone landing late? Tell the hotel so the room is kept."},
+      {"tpl": "point", "n": "06", "title": "Rooms close together.", "body": "You can ask for it in the booking. It's a request, not a promise."},
+      {"tpl": "cta", "title": "Group chat ready?", "body": "Find rooms for everyone on Resapass. Link in bio."}
+    ],
+    "caption": "Group trips go better when the boring part is sorted early.\n\nAgree who books and pays, get the names right for each room, pick twin or double, note the free cancellation deadline, tell the hotel about late arrivals and ask for rooms close together.\n\nSend this to the group chat.\n\n#friendstrip #traveltips #grouptravel"
+  },
+  {
+    "id": "w8-04",
+    "date": "2026-11-26",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p128.jpg", "kicker": "Island guide", "title": "Santorini|where to stay, by vibe", "body": "5 villages, 5 different trips."},
+      {"tpl": "place", "n": "01", "title": "Fira", "tag": "Central & lively", "body": "The main town on the caldera, with bars, shops and buses to most of the island."},
+      {"tpl": "place", "n": "02", "title": "Oia", "tag": "Sunsets & romance", "body": "White houses and blue domes at the northern tip, famous for its sunset views."},
+      {"tpl": "place", "n": "03", "title": "Imerovigli", "tag": "Quiet caldera views", "body": "High on the cliff between Fira and Oia, calmer in the evening."},
+      {"tpl": "place", "n": "04", "title": "Kamari", "tag": "Beach & families", "body": "A long dark sand beach on the east coast, with a seafront promenade."},
+      {"tpl": "place", "n": "05", "title": "Perissa", "tag": "Easygoing beach", "body": "Black sand in the south, a relaxed feel and beach bars along the shore."},
+      {"tpl": "cta", "title": "Which one is yours?", "body": "Compare Santorini hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Santorini looks like one postcard, but each village is a different trip.\n\nFirst visit and want to be central? Fira. Sunsets and a romantic stay? Oia. Caldera views without the crowds? Imerovigli. A beach with kids? Kamari. Black sand and a relaxed pace? Perissa.\n\nSend this to the person you'd go with.\n\n#santorini #greece #greekislands"
+  },
+  {
+    "id": "w8-05",
+    "date": "2026-11-27",
+    "type": "reel",
+    "caption": "The best part of a city break is often the street you didn't plan.\n\nWalk without a list, sit down where it smells good and stay for one more glass. Tip: pick a hotel in the centre, so getting back on foot is easy.\n\nTag the person you'd get lost with.\n\n#slowtravel #citybreak #weekendgetaway",
+    "scenes": [
+      {"image": "p051.jpg", "kicker": "Weekend mood", "title": "Get lost|on purpose.", "body": "The best streets aren't on the list."},
+      {"image": "p088.jpg", "title": "Turn left at the scooters.", "body": "See where it goes."},
+      {"image": "p085.jpg", "title": "Stay for one more glass.", "body": "Tip: book central, walk back."}
+    ],
+    "end": {"title": "Walk more,|plan less.", "body": "Find a central hotel on Resapass. Link in bio."}
+  },
+  {
+    "id": "w8-06",
+    "date": "2026-11-28",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p115.jpg", "kicker": "Travel hack", "title": "Shoulder season|same trip, calmer", "body": "Go just before or after the peak."},
+      {"tpl": "point", "n": "01", "title": "What it is.", "body": "The weeks just before and after high season. Still good weather, fewer people."},
+      {"tpl": "point", "n": "02", "title": "On the Mediterranean.", "body": "Think May, June, September and early October rather than July and August."},
+      {"tpl": "point", "n": "03", "title": "Rates often drop.", "body": "Less demand usually means softer hotel prices than in peak weeks."},
+      {"tpl": "point", "n": "04", "title": "Easier to book.", "body": "More rooms left, so you can pick the view or the area you want."},
+      {"tpl": "point", "n": "05", "title": "Check what's open.", "body": "Some beach hotels and ferries run reduced schedules early and late in the season."},
+      {"tpl": "point", "n": "06", "title": "Watch local events.", "body": "A festival or a holiday can still fill a town. Check the dates first."},
+      {"tpl": "cta", "title": "Planning ahead?", "body": "Compare hotels for any dates on Resapass. Link in bio."}
+    ],
+    "caption": "Same sea, same views, fewer people. That's shoulder season.\n\nOn the Mediterranean, May, June, September and early October often give you good weather, more choice of rooms and softer prices than July and August. Just check that the hotel and the ferries are running, and that no big local event lands on your dates.\n\nSave this for next year's trip.\n\n#shoulderseason #traveltips #travelhacks"
+  },
+  {
+    "id": "w8-07",
+    "date": "2026-11-29",
+    "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p152.jpg", "kicker": "This or that", "title": "Balcony breakfast|or the buffet downstairs?", "body": "Coffee with a view, or a full plate inside? Tell us in the comments."}
+    ],
+    "caption": "Coffee on the balcony with a view, or the full buffet downstairs?\n\nOn holiday, which one are you? Tell us in the comments.\n\n#hotelbreakfast #travelquestions #slowtravel"
+  }
+]
