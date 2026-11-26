@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w9-01",
+    "date": "2026-11-30",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p068.jpg", "kicker": "Booking basics", "title": "City tax|why you pay it at the desk", "body": "A local tax, not a hotel extra."},
+      {"tpl": "point", "n": "01", "title": "What it is.", "body": "A local tax charged per person, per night, in many cities and regions."},
+      {"tpl": "point", "n": "02", "title": "Who sets it.", "body": "The city or region, not the hotel. The amount varies from place to place."},
+      {"tpl": "point", "n": "03", "title": "Often paid on site.", "body": "Many hotels collect it at check-in or checkout, separately from your room rate."},
+      {"tpl": "point", "n": "04", "title": "It can depend on stars.", "body": "In some cities a higher-rated hotel means a higher tax per night."},
+      {"tpl": "point", "n": "05", "title": "Kids may be exempt.", "body": "Some places exempt children under a set age. Rules differ by city."},
+      {"tpl": "point", "n": "06", "title": "Read the booking details.", "body": "Look for \"payable at the property\" so it's never a surprise."},
+      {"tpl": "cta", "title": "No surprises at checkout.", "body": "Compare hotels and read every detail on Resapass. Link in bio."}
+    ],
+    "caption": "You booked the room, then the hotel asks for a few more euros at the desk. That's usually the city tax.\n\nMany cities and regions charge a small local tax per person, per night. The city sets it, not the hotel, and it's often collected on site at check-in or checkout. In some places it depends on the hotel's star rating, and children can be exempt. Look for \"payable at the property\" in your booking details.\n\nSave this for your next city break.\n\n#hotelbooking #traveltips #citybreak"
+  },
+  {
+    "id": "w9-02",
+    "date": "2026-12-01",
+    "type": "reel",
+    "caption": "Our pricing fits in one line: the net rate from the supplier, plus a flat 10%.\n\nWe compare net rates from 280+ suppliers for the same room, then add our 10%. No subscription, no hidden fees, nothing added at the last step.\n\nSee the price for your next stay. Link in bio.\n\n#hotelbooking #travelsmart #traveltips",
+    "scenes": [
+      {"image": "p032.jpg", "kicker": "How we price", "title": "Net rate + 10%.|That's it.", "body": "One flat margin on every room."},
+      {"image": "p091.jpg", "title": "No hidden fees.", "body": "Nothing added at the last step."},
+      {"image": "p084.jpg", "title": "No subscription.", "body": "280+ suppliers compared for you."}
+    ],
+    "end": {"title": "Flat 10%.|Nothing else.", "body": "See the price on Resapass. Link in bio."}
+  },
+  {
+    "id": "w9-03",
+    "date": "2026-12-02",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p019.jpg", "kicker": "Save this before you book", "title": "Beach hotel?|6 things to check first", "body": "Read these before you pick the room."},
+      {"tpl": "point", "n": "01", "title": "How close is the sea.", "body": "\"Near the beach\" can mean steps away or a road to cross. Check the map."},
+      {"tpl": "point", "n": "02", "title": "Private or public beach.", "body": "Some hotels have their own stretch of sand, others share the public beach."},
+      {"tpl": "point", "n": "03", "title": "Sunbeds and umbrellas.", "body": "Included, limited or paid on the beach? It's often in the hotel details."},
+      {"tpl": "point", "n": "04", "title": "Sea view or side view.", "body": "\"Side sea view\" is a different room. Read the room name carefully."},
+      {"tpl": "point", "n": "05", "title": "Sand or pebbles.", "body": "Many Mediterranean beaches are pebbly. Pack water shoes if needed."},
+      {"tpl": "point", "n": "06", "title": "Open all year?", "body": "Some beach hotels close or slow down in winter. Check your dates."},
+      {"tpl": "cta", "title": "Sea first, then the room.", "body": "Compare beach hotels on Resapass. Link in bio."}
+    ],
+    "caption": "A beach hotel can mean a lot of different things once you arrive.\n\nCheck how close the sea really is, whether the beach is private or public, how sunbeds work, if your room is sea view or side sea view, whether the beach is sand or pebbles, and that the hotel is open on your dates.\n\nSave this for next summer.\n\n#beachholiday #traveltips #hotelbooking"
+  },
+  {
+    "id": "w9-04",
+    "date": "2026-12-03",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p130.jpg", "kicker": "Island guide", "title": "Capri|where to stay, by vibe", "body": "5 areas, 5 different trips."},
+      {"tpl": "place", "n": "01", "title": "Capri town", "tag": "Central & lively", "body": "Around the Piazzetta, with cafes, boutiques and evening strolls. Busy with day-trippers by day."},
+      {"tpl": "place", "n": "02", "title": "Anacapri", "tag": "Quieter & local", "body": "Higher up on the west side, calmer in the evening, with the chairlift to Monte Solaro."},
+      {"tpl": "place", "n": "03", "title": "Marina Grande", "tag": "Easy arrivals", "body": "The main port where ferries arrive, with the funicular up to Capri town."},
+      {"tpl": "place", "n": "04", "title": "Marina Piccola", "tag": "Swim & beach clubs", "body": "On the south coast, with small beaches, bathing spots and views of the Faraglioni."},
+      {"tpl": "place", "n": "05", "title": "Tragara", "tag": "Calm & views", "body": "A quiet area near Capri town, on the walk to the Faraglioni viewpoint."},
+      {"tpl": "cta", "title": "Which one is yours?", "body": "Compare Capri hotels on Resapass. Link in bio."}
+    ],
+    "caption": "Capri is small, but where you sleep changes the whole trip.\n\nWant to be in the middle of it? Capri town, around the Piazzetta. Calmer evenings? Anacapri. Easy arrival by ferry? Marina Grande. Swimming first? Marina Piccola. Quiet nights and views of the Faraglioni? Tragara.\n\nSend this to the person you'd go with.\n\n#capri #italy #italytravel"
+  },
+  {
+    "id": "w9-05",
+    "date": "2026-12-04",
+    "type": "reel",
+    "caption": "Some of the best moments of a trip happen in the last hour of daylight.\n\nFind a terrace, a rooftop or a beach facing west and stop for a while. Tip: when you book, you can ask for a high floor. It's a request, not a promise, but the view is often worth asking for.\n\nTag the person you'd watch the sunset with.\n\n#goldenhour #sunsetlovers #slowtravel",
+    "scenes": [
+      {"image": "p111.jpg", "kicker": "Weekend mood", "title": "Golden hour|don't miss it.", "body": "The best light of the day."},
+      {"image": "p072.jpg", "title": "Find a spot facing west.", "body": "A terrace, a rooftop, a beach."},
+      {"image": "p025.jpg", "title": "Ask for a high floor.", "body": "Tip: add it as a request when you book."}
+    ],
+    "end": {"title": "Chase the light,|not the list.", "body": "Find your stay on Resapass. Link in bio."}
+  },
+  {
+    "id": "w9-06",
+    "date": "2026-12-05",
+    "type": "carousel",
+    "slides": [
+      {"tpl": "photo", "image": "p154.jpg", "kicker": "Travel hack", "title": "Staying a week?|Try an aparthotel", "body": "Hotel services, apartment space."},
+      {"tpl": "point", "n": "01", "title": "What it is.", "body": "An apartment with a kitchenette, run like a hotel with a reception and cleaning."},
+      {"tpl": "point", "n": "02", "title": "Eat in when you want.", "body": "Breakfast at home, dinner out. Handy on longer stays."},
+      {"tpl": "point", "n": "03", "title": "More room to spread out.", "body": "A separate living area often helps with families or long trips."},
+      {"tpl": "point", "n": "04", "title": "Look for a washing machine.", "body": "Laundry on site means you can pack lighter."},
+      {"tpl": "point", "n": "05", "title": "Check the cleaning.", "body": "Housekeeping can be less frequent than in a hotel. It's in the details."},
+      {"tpl": "point", "n": "06", "title": "Check reception hours.", "body": "Some have a desk part of the day only, or self check-in. Plan your arrival."},
+      {"tpl": "cta", "title": "Long trip coming up?", "body": "Find aparthotels and hotels on Resapass. Link in bio."}
+    ],
+    "caption": "For a week or more, an aparthotel can be easier than a classic room.\n\nYou get a kitchenette and more space, with hotel services like a reception and cleaning. Look for a washing machine so you can pack lighter, and check how often housekeeping comes and when the reception is open before you arrive.\n\nSave this for your next long trip.\n\n#travelhacks #longstay #traveltips"
+  },
+  {
+    "id": "w9-07",
+    "date": "2026-12-06",
+    "type": "single",
+    "slides": [
+      {"tpl": "photo", "image": "p057.jpg", "kicker": "This or that", "title": "Beach all day|or see everything?", "body": "A lounger and a book, or out exploring from 9am? Tell us in the comments."}
+    ],
+    "caption": "A lounger and a book all day, or out exploring from 9am until dinner?\n\nOn holiday, which one are you? Tell us in the comments.\n\n#beachday #travelquestions #holidaymood"
+  }
+]
